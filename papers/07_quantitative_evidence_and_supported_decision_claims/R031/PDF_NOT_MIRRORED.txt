@@ -1,0 +1,12 @@
+PDF not mirrored in this repository.
+
+Reason: no open-access full text was retrievable through OpenAlex, Unpaywall,
+Europe PMC or Semantic Scholar at build time (likely publisher paywall).
+
+Access the paper via the DOI link on card.html / README.md.
+DOI: 10.3390/bioengineering13060688
+OA status checked: gold
+Detail: http_403
+
+If you have institutional access, download the publisher PDF and save it here
+as R031.pdf, then re-run _build/build_site.py to update badges.

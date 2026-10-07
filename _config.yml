@@ -1,0 +1,3 @@
+# passthrough so Pages serves static files unchanged
+plugins: []
+markdown: kramdown

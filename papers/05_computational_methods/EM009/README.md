@@ -1,0 +1,16 @@
+# EM009 — nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation
+
+**Isensee, Jaeger, Kohl et al. (2021).** *Nature Methods*. DOI: [10.1038/s41592-020-01008-z](https://doi.org/10.1038/s41592-020-01008-z)
+
+**Role:** contextual · workflow: n/a
+
+**Cited in:** Computational methods
+
+**PDF:** see EM009.pdf in this folder | **Interactive card:** [card.html](card.html)
+
+## Manuscript passages citing this work
+> **§ Computational methods** : Segmentation: constructing anatomical intermediates
+> ==Segmentation identifies compartments such as the ooplasm, zona pellucida and perivitelline space. Their masks support area, thickness, shape and spatial measurements, exposing anatomical errors hidden by a scalar developmental score. U-Net links contracting and expanding paths through concatenated spatial features. nnU-Net configures segmentation from dataset characteristics, using training-data cross-validation to select configurations, ensembles and postprocessing [@EM008,EM009].==
+
+---
+*Machine-extracted; human verification pending. == ... == marks supporting content.*

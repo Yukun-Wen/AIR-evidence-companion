@@ -1,0 +1,31 @@
+# R005 — The prospect of artificial intelligence to personalize assisted reproductive technology
+
+**Hanassab, Abbara, Yeung et al. (2024).** *npj Digital Medicine*. DOI: [10.1038/s41746-024-01006-x](https://doi.org/10.1038/s41746-024-01006-x)
+
+**Role:** contextual · workflow: n/a
+
+**Cited in:** Introduction, Computational methods
+
+**PDF:** see R005.pdf in this folder | **Interactive card:** [card.html](card.html)
+
+## Manuscript passages citing this work
+> **§ Introduction**
+> ==sn-jnl fontenc amsmath,amssymb,graphicx,booktabs,tabularx,longtable,array placeins needspace textcomp Artificial Intelligence for In Vitro Fertilization: Computational Methods, Data Structures, and Evaluation Author list pending confirmation Affiliations and corresponding-author details pending confirmation Artificial intelligence (AI) for in vitro fertilization (IVF) learns from clinical records, cellular images and developmental sequences linked by biological hierarchies and treatment decisions. This survey connects computational design to the evidence needed to assess it across 247 cited works: 125 core empirical reports and 122 contextual sources. A mechanism-centered taxonomy organizes tabular, spatial, temporal and multimodal or hierarchical representations into four families and 16 mechanisms, recording supervision, learning objective and intended use as separate axes. Its application is coupled to 20 source-located contrasts from 12 reports, with explicit input timing, populations, biological units, endpoints and validation conditions. These records distinguish changes in computation, available information and clinical policies. The resource census identifies 20 named datasets or registry families and 35 empirical report--resource uses; nine resources recur in at least two reports. Four dataset-level comparisons select five independent model families each, yielding 20 representatives of 15 families with report years, metric vectors and paper-deduplicated use counts. The worked contrasts show how interpretation changes: an embryo score's area under the receiver …==
+
+> **§ Introduction**
+> ==Existing surveys provide extensive accounts of the clinical pathway and its technologies. General and laboratory reviews cover gametes, embryo assessment, quality control and treatment outcomes [@R001,R007,R009]. Hanassab and colleagues map algorithm families to learning types, data requirements, interpretability and assisted reproductive technology (ART) applications; Gao and colleagues organize methods across clinical data, imaging and omics; and Moysis and colleagues develop a methodological account extending beyond embryo selection [@R005,R012,R026]. Clinical-management reviews connect learned predictors to calculators and prescribing rules, while broader accounts address data heterogeneity, laboratory workflow, outcome trials and routine practice [@R003,R006,R010,R011,R013].==
+
+> **§ Introduction**
+> ==Table entry; table caption: Selected review precedents and the scope of this synthesis. — [@R005]==
+
+> **§ Computational methods** : Fixed-vector representations: clinical records and structured measurements
+> ==12 A fixed vector records measurements available at a decision. Patient characteristics, treatment histories, laboratory measurements and embryo summaries support tabular learning across ART personalization and stimulation. Spatial arrangement, temporal order and biological membership enter through supplied features [@R005,R006,R041].==
+
+> **§ Computational methods** : Trajectory summaries and recorded-action learning
+> ==Treatment variables encode patient state and clinical choice. The quantity $ E[Y A=a,X=x]$ describes an observed conditional relationship; a recommendation concerns the consequence of assigning $a$. Attribution and input perturbation characterize the fitted mapping, while assignment-aware estimation addresses the intervention. Prognosis, imitation and policy evaluation therefore retain distinct objectives even when their columns and estimators coincide [@R005,R041,R042,R030,R048].==
+
+> **§ Computational methods** : Multimodal and hierarchical representations
+> ==Patient context, microscopy, developmental trajectories, ultrasound and molecular measurements describe complementary aspects of treatment. Broad IVF reviews and Ouyang and Wei's formal review organize these inputs and their use in embryo grading and pregnancy prediction [@R005,R012,R028]. Multimodal design determines where information from these sources interacts; hierarchical design determines how observations from several biological objects contribute to one output. Both begin by aligning the observations to their biological units and acquisition times.==
+
+---
+*Machine-extracted; human verification pending. == ... == marks supporting content.*

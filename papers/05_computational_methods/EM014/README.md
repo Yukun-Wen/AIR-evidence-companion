@@ -1,0 +1,16 @@
+# EM014 — Long Short-Term Memory
+
+**Hochreiter, Schmidhuber (1997).** *Neural Computation*. DOI: [10.1162/neco.1997.9.8.1735](https://doi.org/10.1162/neco.1997.9.8.1735)
+
+**Role:** contextual · workflow: n/a
+
+**Cited in:** Computational methods
+
+**PDF:** not mirrored - see DOI | **Interactive card:** [card.html](card.html)
+
+## Manuscript passages citing this work
+> **§ Computational methods** : Temporal representations: events, sequences and developmental change
+> ==Temporal models encode developmental order, duration and change through events, recurrent states or frame interactions. Embryo tasks include grading, blastocyst forecasting and outcome scoring; clinical monitoring also captures treatment feedback. Event models emphasize timing, recurrent models retain history, and video encoders learn changing appearance [@EMBRYO02,EMBRYO04,OUTCOME03] [@R022]. LSTM maintains gated memory; forget gates were added after its original formulation. Cho's encoder-decoder uses reset and update gates. Transformers relate sequence elements through attention and positions, with decoder masking restricting future outputs. These mechanisms originated in synthetic and language tasks [@EM014,EM015,EM016].==
+
+---
+*Machine-extracted; human verification pending. == ... == marks supporting content.*
