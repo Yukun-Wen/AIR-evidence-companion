@@ -1,6 +1,0 @@
-To push this site to GitHub:
-1. Install GitHub CLI (already done) and run:  gh auth login   (opens browser to authorize)
-2. Then run:  .\_build\deploy.ps1
-   or manually:  gh repo create AIR-evidence-companion --public --source . --push
-3. Enable Pages: Settings → Pages → Deploy from branch → main / (root)
-The site loads from index.html (no Jekyll needed).
