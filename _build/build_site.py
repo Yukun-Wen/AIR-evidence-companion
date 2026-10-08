@@ -966,7 +966,7 @@ with open(os.path.join(GH,'NOTICE.md'),'w',encoding='utf-8') as f: f.write(notic
 with open(os.path.join(GH,'_config.yml'),'w') as f:
     f.write('# passthrough so Pages serves static files unchanged\nplugins: []\nmarkdown: kramdown\n')
 with open(os.path.join(GH,'.gitignore'),'w') as f:
-    f.write('.DS_Store\nThumbs.db\n__MACOSX/\n')
+    f.write('.DS_Store\nThumbs.db\n__MACOSX/\n_build/\n*.tmp\n*.log\n~$*\n')
 with open(os.path.join(GH,'.gitattributes'),'w') as f:
     f.write('* text=auto\n*.pdf binary\n*.png binary\n*.svg text\n')
 
