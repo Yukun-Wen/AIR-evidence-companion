@@ -8,7 +8,7 @@
 <select id="fCtr" onchange="render()"><option value="">Any</option><option value="1">contrast papers</option></select>
 </div>
 <p class="small" id="cnt"></p>
-<table class="data" id="tbl"><thead><tr><th>ID</th><th>Title</th><th>Authors</th><th>Year</th><th>Venue</th><th>Cited in</th><th>Workflow</th><th>Tags</th></tr></thead><tbody></tbody></table>
+<table class="data" id="tbl"><thead><tr><th onclick="sortBy('id')">ID</th><th onclick="sortBy('title')">Title</th><th onclick="sortBy('authors_short')">Authors</th><th onclick="sortBy('year')">Year</th><th onclick="sortBy('venue')">Venue</th><th>Cited in</th><th>Workflow</th><th>Tags</th><th></th></tr></thead><tbody></tbody></table>
 <script>
 var P=window.PAPERS||[];
 (function(){
@@ -20,11 +20,13 @@ var P=window.PAPERS||[];
  Object.keys(w).forEach(function(t){var o=document.createElement('option');o.value=t;o.textContent=t;wf.appendChild(o)});
 })();
 function render(){
- var q=document.getElementById('q').value.toLowerCase();
+ (function(){var u=new URLSearchParams(location.search);if(u.get('sec'))document.getElementById('fSec').value=u.get('sec');if(u.get('wf'))document.getElementById('fWf').value=u.get('wf')})();
+var q=document.getElementById('q').value.toLowerCase();
  var fr=document.getElementById('fRole').value, fs=document.getElementById('fSec').value,
      fw=document.getElementById('fWf').value, fp=document.getElementById('fPdf').value,
      fc=document.getElementById('fCtr').value;
- var rows=P.filter(function(p){
+ var data=P.slice(); if(SORT.key) data.sort(function(a,b){var x=a[SORT.key]||'',y=b[SORT.key]||'';return (x>y?1:x<y?-1:0)*(SORT.asc?1:-1)});
+ var rows=data.filter(function(p){
    if(fr && p.role!=fr) return false;
    if(fs && !(p.sections||[]).some(function(s){return s.title==fs})) return false;
    if(fw && p.workflow!=fw) return false;

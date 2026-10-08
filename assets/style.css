@@ -1,7 +1,7 @@
 
 :root{--ink:#2e3735;--muted:#75808a;--blue:#5b7d95;--accent:#c08a5f;--bg:#ffffff;--panel:#f7f6f4;--border:#ddd6cd;--hl:#f5e9bf;--hl2:#f3dcc9;--teal:#7fa8a0}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:14.5px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.62 Georgia,Cambria,"Times New Roman",Times,serif;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased}
 a{color:var(--blue);text-decoration:none;border-bottom:1px solid transparent}
 a:hover{border-bottom-color:var(--blue)}
 header.site{background:#fff;color:var(--ink);padding:20px 5% 14px;border-bottom:3px solid var(--blue)}
@@ -21,13 +21,14 @@ main{max-width:1200px;margin:auto;padding:18px 4%}
 .badge.ctx{background:#eae7f0;border-color:#b8afc9;color:#6a5f8c}
 .badge.contrast{background:#f4e4d6;border-color:#d9ac80;color:#8f5f33}
 .badge.pending{background:#f4e3df;border-color:#d4a294;color:#8c4f42}
-.badge.loc{font-family:ui-monospace,"Cascadia Code",Consolas,monospace;background:#e3e9eb;color:var(--blue)}
+.mono,.badge.loc{font-family:ui-monospace,"Cascadia Code",Consolas,monospace}.badge.loc{background:#e3e9eb,"Cascadia Code",Consolas,monospace;background:#e3e9eb;color:var(--blue)}
 mark{background:var(--hl);padding:0 2px;border-radius:2px}
 mark.field{background:var(--hl2)}
 blockquote.ex{border-left:3px solid var(--teal);background:#eef2f0;margin:10px 0;padding:9px 14px;border-radius:0 4px 4px 0;font-size:13.5px}
 blockquote.claim{border-left:3px solid var(--accent);background:#f6eee6;margin:10px 0;padding:9px 14px;border-radius:0 4px 4px 0;font-size:13.5px}
 table.data{border-collapse:collapse;width:100%;font-size:13px}
 table.data th,table.data td{border:1px solid var(--border);padding:6px 9px;text-align:left;vertical-align:top}
+table.data{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;font-size:13px}
 table.data th{background:var(--panel);position:sticky;top:0;font-weight:650}
 table.data tr:nth-child(even){background:#f8f6f3}
 .filters{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0;padding:11px;background:var(--panel);border:1px solid var(--border);border-radius:5px;position:sticky;top:0;z-index:5}
@@ -45,11 +46,16 @@ img.fig{max-width:100%;border:1px solid var(--border);border-radius:4px;backgrou
 .figcap{font-size:12px;color:var(--muted);margin:4px 0 16px;font-style:italic}
 .small{font-size:12.5px;color:var(--muted)}
 .mono{font-family:ui-monospace,Consolas,monospace;font-size:11.5px;word-break:break-all}
-footer{border-top:1px solid var(--border);margin-top:36px;padding:14px 5%;font-size:12px;color:var(--muted);background:var(--panel)}
+footer{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;font-size:12.5px;border-top:1px solid var(--border);margin-top:36px;padding:14px 5%;font-size:12px;color:var(--muted);background:var(--panel)}
+h1,h2,h3,h4,h5,.card h3,header.site h2{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;font-weight:600}
 h2.sec{border-bottom:2px solid var(--blue);padding-bottom:4px;margin-top:26px;font-size:18px;color:var(--blue)}
 .pill{font-size:10.5px;padding:1px 7px;border-radius:9px;background:var(--panel);color:var(--blue);margin-left:6px;border:1px solid var(--border)}
 a.pdfbtn{display:inline-block;background:var(--blue);color:#fff !important;padding:3px 11px;border-radius:4px;font-size:12px;margin-top:6px;border:0}
 a.pdfbtn.none{background:#8fa6b3}
+    button.bib{background:var(--panel);border:1px solid var(--border);border-radius:3px;font-size:10.5px;padding:1px 7px;cursor:pointer;color:var(--blue)}
+    button.bib:hover{border-color:var(--blue)}
+    table.data th{cursor:pointer;user-select:none}
+    table.data th:hover{color:var(--blue)}
     .navrow{display:flex;justify-content:space-between;align-items:center;margin:8px 0 10px;font-size:12.5px}
     .navrow a{color:var(--blue);text-decoration:none;padding:3px 10px;border:1px solid var(--border);border-radius:4px;background:var(--panel)}
     .navrow a.idx{background:var(--blue);color:#fff}
