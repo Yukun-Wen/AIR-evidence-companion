@@ -1,0 +1,14 @@
+{
+ "papers": 247,
+ "claims": 447,
+ "card_pages": 247,
+ "figs": 13,
+ "charts": 13,
+ "pdf_status": {
+  "unavailable": 156,
+  "downloaded_oa": 65,
+  "local_copy": 26
+ },
+ "dead_links": [],
+ "dead_link_count": 0
+}

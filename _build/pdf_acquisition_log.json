@@ -1,0 +1,2264 @@
+{
+ "EA003": {
+  "paper_id": "EA003",
+  "doi": "",
+  "title": "Set-Valued Policy Learning",
+  "oa_status": "no_doi",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EA015": {
+  "paper_id": "EA015",
+  "doi": "",
+  "title": "ILETIA: An AI-enhanced method for individualized trigger-oocyte pickup interval estimation of progestin-primed ovarian stimulation protocol",
+  "oa_status": "no_doi",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EA024": {
+  "paper_id": "EA024",
+  "doi": "10.18653/v1/2024.uncertainlp-1.13",
+  "title": "Linguistically Communicating Uncertainty in Patient-Facing Risk Prediction Models",
+  "oa_status": "green",
+  "pdf_url": "https://aclanthology.org/2024.uncertainlp-1.0.pdf",
+  "status": "downloaded_oa",
+  "detail": 91885,
+  "bytes": 91885
+ },
+ "EA030": {
+  "paper_id": "EA030",
+  "doi": "10.1109/healthcom49281.2021.9398914",
+  "title": "A Knowledge-Based Decision Support System for In Vitro Fertilization Treatment",
+  "oa_status": "green",
+  "pdf_url": "https://arxiv.org/pdf/2201.11802",
+  "status": "downloaded_oa",
+  "detail": 1019006,
+  "bytes": 1019006
+ },
+ "EA043": {
+  "paper_id": "EA043",
+  "doi": "10.1109/access.2019.2940588",
+  "title": "In Vitro Fertilization (IVF) Cumulative Pregnancy Rate Prediction From Basic Patient Characteristics",
+  "oa_status": "gold",
+  "pdf_url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08830424.pdf",
+  "status": "downloaded_oa",
+  "detail": 4564534,
+  "bytes": 4564534
+ },
+ "EC001": {
+  "paper_id": "EC001",
+  "doi": "10.1186/s12958-025-01479-9",
+  "title": "Automated AI for real-time sperm selection in ICSI: reducing variability and studying the role of sperm in embryo development.",
+  "oa_status": "gold",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1186/s12958-025-01479-9.pdf",
+  "status": "downloaded_oa",
+  "detail": 2035922,
+  "bytes": 2035922
+ },
+ "EC002": {
+  "paper_id": "EC002",
+  "doi": "10.1530/raf-25-0014",
+  "title": "Artificial intelligence model for the assessment of unstained live sperm morphology.",
+  "oa_status": "diamond",
+  "pdf_url": "https://raf.bioscientifica.com/downloadpdf/view/journals/raf/aop/raf-25-0014/raf-25-0014.pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EC003": {
+  "paper_id": "EC003",
+  "doi": "10.1007/s10815-025-03453-1",
+  "title": "Correlation analysis of a novel artificial intelligence optical microscope-assisted semen assessment system with IVF outcomes.",
+  "oa_status": "green",
+  "pdf_url": "https://pubmed.ncbi.nlm.nih.gov/40163276/",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:5590"
+ },
+ "EC004": {
+  "paper_id": "EC004",
+  "doi": "10.1038/s41598-024-73326-7",
+  "title": "Ensemble machine learning models for sperm quality evaluation concerning success rate of clinical pregnancy in assisted reproductive techniques.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.nature.com/articles/s41598-024-73326-7.pdf",
+  "status": "downloaded_oa",
+  "detail": 1661683,
+  "bytes": 1661683
+ },
+ "EC005": {
+  "paper_id": "EC005",
+  "doi": "10.1186/s12958-024-01232-8",
+  "title": "Testing the generalizability and effectiveness of deep learning models among clinics: sperm detection as a pilot study.",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.1186/s12958-024-01232-8",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:460487"
+ },
+ "EC006": {
+  "paper_id": "EC006",
+  "doi": "10.4103/jhrs.jhrs_4_23",
+  "title": "Deep Learning-Based Robust Automated System for Predicting Human Sperm DNA Fragmentation Index.",
+  "oa_status": "diamond",
+  "pdf_url": "https://doi.org/10.4103/jhrs.jhrs_4_23",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:293917"
+ },
+ "EC012": {
+  "paper_id": "EC012",
+  "doi": "10.1016/j.fertnstert.2020.10.038",
+  "title": "Machine-learning algorithm incorporating capacitated sperm intracellular pH predicts conventional in vitro fertilization success in normospermic patients.",
+  "oa_status": "bronze",
+  "pdf_url": "https://www.fertstert.org/article/S0015-0282(20)32552-8/pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EC013": {
+  "paper_id": "EC013",
+  "doi": "10.4103/aja.aja_66_20",
+  "title": "A preliminary study of sperm identification in microdissection testicular sperm extraction samples with deep convolutional neural networks.",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.4103/aja.aja_66_20",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:303950"
+ },
+ "EC019": {
+  "paper_id": "EC019",
+  "doi": "10.2196/44047",
+  "title": "A Machine Learning Approach for the Prediction of Testicular Sperm Extraction in Nonobstructive Azoospermia: Algorithm Development and Validation Study.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.jmir.org/2023/1/e44047/PDF",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:0"
+ },
+ "EC020": {
+  "paper_id": "EC020",
+  "doi": "10.1080/20565623.2025.2583010",
+  "title": "Deep-learning based model for sperm morphology assessment using the SMD/MSS dataset.",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.1080/20565623.2025.2583010",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EC026": {
+  "paper_id": "EC026",
+  "doi": "10.1186/s12938-023-01153-4",
+  "title": "Human oocytes image classification method based on deep neural networks.",
+  "oa_status": "gold",
+  "pdf_url": "https://biomedical-engineering-online.biomedcentral.com/counter/pdf/10.1186/s12938-023-01153-4",
+  "status": "downloaded_oa",
+  "detail": 1252427,
+  "bytes": 1252427
+ },
+ "EC027": {
+  "paper_id": "EC027",
+  "doi": "10.1186/s12938-021-00864-w",
+  "title": "Semantic segmentation of human oocyte images using deep neural networks.",
+  "oa_status": "gold",
+  "pdf_url": "https://biomedical-engineering-online.biomedcentral.com/track/pdf/10.1186/s12938-021-00864-w",
+  "status": "downloaded_oa",
+  "detail": 4460593,
+  "bytes": 4460593
+ },
+ "EC030": {
+  "paper_id": "EC030",
+  "doi": "10.1016/j.jmbbm.2022.105640",
+  "title": "Profiling oocytes with neural networks from images and mechanical data.",
+  "oa_status": "bronze",
+  "pdf_url": "https://doi.org/10.1016/j.jmbbm.2022.105640",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:2685"
+ },
+ "EC031": {
+  "paper_id": "EC031",
+  "doi": "10.1186/s12916-026-04769-0",
+  "title": "Enhanced predictive performance of artificial intelligence in individualized ovarian stimulation of in vitro fertilization: a retrospective cohort study.",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.1186/s12916-026-04769-0",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:557248"
+ },
+ "EC032": {
+  "paper_id": "EC032",
+  "doi": "10.2196/78245",
+  "title": "Integrated Prediction System for Individualized Ovarian Stimulation and Ovarian Hyperstimulation Syndrome Prevention: Algorithm Development and Validation.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.jmir.org/2026/1/e78245/PDF",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:0"
+ },
+ "EC033": {
+  "paper_id": "EC033",
+  "doi": "10.1007/s10815-025-03777-y",
+  "title": "An artificial intelligence platform for automated measurement and count estimation of ovarian follicles during ovarian stimulation and IVF: a multicenter study.",
+  "oa_status": "hybrid",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10815-025-03777-y.pdf",
+  "status": "downloaded_oa",
+  "detail": 1245464,
+  "bytes": 1245464
+ },
+ "EC035": {
+  "paper_id": "EC035",
+  "doi": "10.1016/j.xfre.2025.01.015",
+  "title": "Real-world use of an artificial intelligence-powered clinical decision support tool for ovarian stimulation.",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.1016/j.xfre.2025.01.015",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:2693"
+ },
+ "EC036": {
+  "paper_id": "EC036",
+  "doi": "10.1038/s41598-025-95957-0",
+  "title": "A weakly-supervised follicle segmentation method in ultrasound images.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.nature.com/articles/s41598-025-95957-0.pdf",
+  "status": "downloaded_oa",
+  "detail": 2789708,
+  "bytes": 2789708
+ },
+ "EC037": {
+  "paper_id": "EC037",
+  "doi": "10.1007/s10815-025-03471-z",
+  "title": "Pharmacogenetic analysis using artificial intelligence (AI) to identify polymorphisms associated with sub-optimal ovarian response and hyper-response.",
+  "oa_status": "green",
+  "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12226441/",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:194390"
+ },
+ "EC038": {
+  "paper_id": "EC038",
+  "doi": "10.1038/s41598-025-92186-3",
+  "title": "A deep learning approach to understanding controlled ovarian stimulation and in vitro fertilization dynamics.",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.1038/s41598-025-92186-3",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:384703"
+ },
+ "EC039": {
+  "paper_id": "EC039",
+  "doi": "10.1002/rmb2.12603",
+  "title": "Development of an AI-based support system for controlled ovarian stimulation.",
+  "oa_status": "gold",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rmb2.12603",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EC041": {
+  "paper_id": "EC041",
+  "doi": "10.1186/s12884-022-05152-6",
+  "title": "Prediction model of gonadotropin starting dose and its clinical application in controlled ovarian stimulation.",
+  "oa_status": "gold",
+  "pdf_url": "https://bmcpregnancychildbirth.biomedcentral.com/counter/pdf/10.1186/s12884-022-05152-6",
+  "status": "downloaded_oa",
+  "detail": 2339281,
+  "bytes": 2339281
+ },
+ "EC046": {
+  "paper_id": "EC046",
+  "doi": "10.18632/aging.203032",
+  "title": "Machine-intelligence for developing a potent signature to predict ovarian response to tailor assisted reproduction technology.",
+  "oa_status": "green",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8312467",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:228215"
+ },
+ "EC047": {
+  "paper_id": "EC047",
+  "doi": "10.1093/humrep/deaa251",
+  "title": "Streamlining follicular monitoring during controlled ovarian stimulation: a data-driven approach to efficient IVF care in the new era of social distancing.",
+  "oa_status": "green",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7665450",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:146266"
+ },
+ "EC052": {
+  "paper_id": "EC052",
+  "doi": "10.1093/humrep/dead163",
+  "title": "Predicting the number of oocytes retrieved from controlled ovarian hyperstimulation with machine learning.",
+  "oa_status": "hybrid",
+  "pdf_url": "https://academic.oup.com/humrep/advance-article-pdf/doi/10.1093/humrep/dead163/51112791/dead163.pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EC053": {
+  "paper_id": "EC053",
+  "doi": "10.1371/journal.pcbi.1011020",
+  "title": "Personalized prediction of the secondary oocytes number after ovarian stimulation: A machine learning model based on clinical and genetic data.",
+  "oa_status": "gold",
+  "pdf_url": "https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1011020&type=printable",
+  "status": "downloaded_oa",
+  "detail": 1412257,
+  "bytes": 1412257
+ },
+ "EC054": {
+  "paper_id": "EC054",
+  "doi": "10.1016/j.ejogrb.2023.03.022",
+  "title": "Prediction of oocyte maturation rate in the GnRH antagonist flexible IVF protocol using a novel machine learning algorithm - A retrospective study.",
+  "oa_status": "closed",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EC057": {
+  "paper_id": "EC057",
+  "doi": "10.1186/s13048-026-02039-4",
+  "title": "Machine learning-based endometrial ultrasound radiomics habitat analysis for predicting pregnancy outcomes after embryo transfer.",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.1186/s13048-026-02039-4",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:461952"
+ },
+ "EC058": {
+  "paper_id": "EC058",
+  "doi": "10.1038/s41598-025-31013-1",
+  "title": "Machine learning prediction of live birth after IVF using the morphological uterus sonographic assessment group features of adenomyosis.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.nature.com/articles/s41598-025-31013-1.pdf",
+  "status": "downloaded_oa",
+  "detail": 1493157,
+  "bytes": 1493157
+ },
+ "EC059": {
+  "paper_id": "EC059",
+  "doi": "10.1002/rmb2.12698",
+  "title": "Development and Validation of a Combined Model Integrating Early Pregnancy Ultrasound Radiomics and Clinical Features to Predict Live Birth Following Single Vitrified-Warmed Blastocyst Transfer.",
+  "oa_status": "gold",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rmb2.12698",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EC060": {
+  "paper_id": "EC060",
+  "doi": "10.1080/07853890.2025.2582245",
+  "title": "Machine learning-based preliminary screening tool for clinical pregnancy prediction: towards management of IVF/ICSI stages.",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.1080/07853890.2025.2582245",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EC061": {
+  "paper_id": "EC061",
+  "doi": "10.1186/s12967-025-07045-6",
+  "title": "Predictive models for live birth outcomes following fresh embryo transfer in assisted reproductive technologies using machine learning.",
+  "oa_status": "gold",
+  "pdf_url": "https://translational-medicine.biomedcentral.com/counter/pdf/10.1186/s12967-025-07045-6",
+  "status": "downloaded_oa",
+  "detail": 4321885,
+  "bytes": 4321885
+ },
+ "EC063": {
+  "paper_id": "EC063",
+  "doi": "10.1016/j.cmpb.2025.108979",
+  "title": "An integrated optimization and deep learning pipeline for predicting live birth success in IVF using feature optimization and transformer-based models.",
+  "oa_status": "hybrid",
+  "pdf_url": "https://doi.org/10.1016/j.cmpb.2025.108979",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:2787"
+ },
+ "EC064": {
+  "paper_id": "EC064",
+  "doi": "10.3389/fendo.2025.1556681",
+  "title": "Comparative analysis of convolutional neural networks and traditional machine learning models for IVF live birth prediction: a retrospective analysis of 48514 IVF cycles and an evaluation of deployment feasibility in resource-constrained settings.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2025.1556681/pdf",
+  "status": "downloaded_oa",
+  "detail": 2132133,
+  "bytes": 2132133
+ },
+ "EC065": {
+  "paper_id": "EC065",
+  "doi": "10.1007/s10815-025-03524-3",
+  "title": "Predictive model for live birth outcomes in single euploid frozen embryo transfers: a comparative analysis of logistic regression and machine learning approaches.",
+  "oa_status": "green",
+  "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12423375/",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:210684"
+ },
+ "EC066": {
+  "paper_id": "EC066",
+  "doi": "10.1038/s41467-025-58744-z",
+  "title": "Machine learning center-specific models show improved IVF live birth predictions over US national registry-based model.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.nature.com/articles/s41467-025-58744-z.pdf",
+  "status": "downloaded_oa",
+  "detail": 1742893,
+  "bytes": 1742893
+ },
+ "EC068": {
+  "paper_id": "EC068",
+  "doi": "10.1186/s13048-025-01654-x",
+  "title": "Construction and evaluation of machine learning-based prediction model for live birth following fresh embryo transfer in IVF/ICSI patients with polycystic ovary syndrome.",
+  "oa_status": "gold",
+  "pdf_url": "https://ovarianresearch.biomedcentral.com/counter/pdf/10.1186/s13048-025-01654-x",
+  "status": "downloaded_oa",
+  "detail": 2283734,
+  "bytes": 2283734
+ },
+ "EC069": {
+  "paper_id": "EC069",
+  "doi": "10.1038/s41598-024-80356-8",
+  "title": "Improved clinical pregnancy rates in natural frozen-thawed embryo transfer cycles with machine learning ovulation prediction: insights from a retrospective cohort study.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.nature.com/articles/s41598-024-80356-8.pdf",
+  "status": "downloaded_oa",
+  "detail": 2458985,
+  "bytes": 2458985
+ },
+ "EC070": {
+  "paper_id": "EC070",
+  "doi": "10.1186/s12958-024-01253-3",
+  "title": "Clinical data-based modeling of IVF live birth outcome and its application.",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.1186/s12958-024-01253-3",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:433946"
+ },
+ "EC073": {
+  "paper_id": "EC073",
+  "doi": "10.1186/s12958-023-01070-0",
+  "title": "Can biomarkers identified from the uterine fluid transcriptome be used to establish a noninvasive endometrial receptivity prediction tool? A proof-of-concept study.",
+  "oa_status": "gold",
+  "pdf_url": "https://rbej.biomedcentral.com/counter/pdf/10.1186/s12958-023-01070-0",
+  "status": "downloaded_oa",
+  "detail": 2107184,
+  "bytes": 2107184
+ },
+ "EC074": {
+  "paper_id": "EC074",
+  "doi": "10.3389/fpubh.2022.924539",
+  "title": "Multi-Omics Analysis and Machine Learning Prediction Model for Pregnancy Outcomes After Intracytoplasmic Sperm Injection- in vitro Fertilization.",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.3389/fpubh.2022.924539",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:808757"
+ },
+ "EC075": {
+  "paper_id": "EC075",
+  "doi": "10.1186/s13048-025-01859-0",
+  "title": "An interpretable delta ultrasound radiomics model for predicting live birth outcomes in single vitrified-warmed blastocyst transfer.",
+  "oa_status": "gold",
+  "pdf_url": "https://ovarianresearch.biomedcentral.com/counter/pdf/10.1186/s13048-025-01859-0",
+  "status": "downloaded_oa",
+  "detail": 2125830,
+  "bytes": 2125830
+ },
+ "EC076": {
+  "paper_id": "EC076",
+  "doi": "10.3390/bioengineering13010102",
+  "title": "AI-Based Augmented Reality Microscope for Real-Time Sperm Detection and Tracking in Micro-TESE.",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.3390/bioengineering13010102",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EC077": {
+  "paper_id": "EC077",
+  "doi": "10.3390/s25247539",
+  "title": "Robust Real-Time Sperm Tracking with Identity Reassignment Using Extended Kalman Filtering.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.mdpi.com/1424-8220/25/24/7539/pdf?version=1765461511",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EC078": {
+  "paper_id": "EC078",
+  "doi": "10.3390/diagnostics15121564",
+  "title": "Advanced Multi-Level Ensemble Learning Approaches for Comprehensive Sperm Morphology Assessment.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.mdpi.com/2075-4418/15/12/1564/pdf?version=1750325752",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EC079": {
+  "paper_id": "EC079",
+  "doi": "10.3390/s25103093",
+  "title": "Deep Learning Models for Multi-Part Morphological Segmentation and Evaluation of Live Unstained Human Sperm.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.mdpi.com/1424-8220/25/10/3093/pdf?version=1747274776",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EC080": {
+  "paper_id": "EC080",
+  "doi": "10.3390/s23146613",
+  "title": "A Dual Architecture Fusion and AutoEncoder for Automatic Morphological Classification of Human Sperm.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.mdpi.com/1424-8220/23/14/6613/pdf?version=1690028388",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EC081": {
+  "paper_id": "EC081",
+  "doi": "10.3390/genes14020451",
+  "title": "Study on Sperm-Cell Detection Using YOLOv5 Architecture with Labaled Dataset.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.mdpi.com/2073-4425/14/2/451/pdf?version=1676016789",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EC082": {
+  "paper_id": "EC082",
+  "doi": "10.3390/diagnostics10050325",
+  "title": "Deep Learning-Based Morphological Classification of Human Sperm Heads.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.mdpi.com/2075-4418/10/5/325/pdf?version=1590061967",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EC083": {
+  "paper_id": "EC083",
+  "doi": "10.3390/jcm11216546",
+  "title": "Rupture Prediction for Microscopic Oocyte Images of Piezo Intracytoplasmic Sperm Injection by Principal Component Analysis.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.mdpi.com/2077-0383/11/21/6546/pdf?version=1667559497",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EC084": {
+  "paper_id": "EC084",
+  "doi": "10.3390/diagnostics12020492",
+  "title": "Machine Learning-Based Modeling of Ovarian Response and the Quantitative Evaluation of Comprehensive Impact Features.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.mdpi.com/2075-4418/12/2/492/pdf?version=1644838714",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EC085": {
+  "paper_id": "EC085",
+  "doi": "10.3390/biomedicines13112768",
+  "title": "Machine Learning-Based Prediction of IVF Outcomes: The Central Role of Female Preprocedural Factors.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.mdpi.com/2227-9059/13/11/2768/pdf?version=1762959278",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EC086": {
+  "paper_id": "EC086",
+  "doi": "10.3390/jcm14196948",
+  "title": "Personal KPIs in IVF Laboratory: Are They Measurable or Distortable? A Case Study Using AI-Based Benchmarking.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.mdpi.com/2077-0383/14/19/6948/pdf?version=1759303760",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EC087": {
+  "paper_id": "EC087",
+  "doi": "10.3390/jcm14134407",
+  "title": "The Influence of Pre-IVF Day 2 TSH Levels on Treatment Success and Obstetric Outcomes: A Retrospective Single-Center Analysis with Machine Learning-Based Data Evaluation.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.mdpi.com/2077-0383/14/13/4407/pdf?version=1750420792",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EC088": {
+  "paper_id": "EC088",
+  "doi": "10.3390/biology14050556",
+  "title": "Bioinformatic Analysis of Complex In Vitro Fertilization Data and Predictive Model Design Based on Machine Learning: The Age Paradox in Reproductive Health.",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.3390/biology14050556",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EC090": {
+  "paper_id": "EC090",
+  "doi": "10.3390/ijms24065598",
+  "title": "DNA Methylation of Window of Implantation Genes in Cervical Secretions Predicts Ongoing Pregnancy in Infertility Treatment.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.mdpi.com/1422-0067/24/6/5598/pdf?version=1678862053",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EC091": {
+  "paper_id": "EC091",
+  "doi": "10.3390/ijms24021726",
+  "title": "Cervical Secretion Methylation Is Associated with the Pregnancy Outcome of Frozen-Thawed Embryo Transfer.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.mdpi.com/1422-0067/24/2/1726/pdf?version=1673863325",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EE004": {
+  "paper_id": "EE004",
+  "doi": "10.1016/j.xfre.2026.04.002",
+  "title": "Embryologist experience affects concordance with an artificial intelligence embryo ranking algorithm: benefit of artificial intelligence assistance.",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.1016/j.xfre.2026.04.002",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:2727"
+ },
+ "EE006": {
+  "paper_id": "EE006",
+  "doi": "10.3390/diagnostics16040631",
+  "title": "MiMics-Net: A Multimodal Interaction Network for Blastocyst Component Segmentation.",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\PRISMA_and_Selected_Literature_v1.5\\Selected_Literature\\Core_Evidence\\C000394_MiMics_Net_A_Multimodal_Interaction_Network_for_Blastocyst_Component_Segmentation.pdf",
+  "bytes": 2862948
+ },
+ "EE007": {
+  "paper_id": "EE007",
+  "doi": "10.1038/s41598-025-19898-4",
+  "title": "Blastulation and ploidy prediction using morphology assessment in 33,999 day-3 embryos.",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\datasets\\literature\\C000513_Blastulation_and_ploidy_prediction_using_morphology_assessment_in_33_999_day_3_emb.pdf",
+  "bytes": 2215819
+ },
+ "EE008": {
+  "paper_id": "EE008",
+  "doi": "10.1038/s43856-025-01182-1",
+  "title": "Federated task-adaptive learning for personalized selection of human IVF-derived embryos.",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\PRISMA_and_Selected_Literature_v1.5\\Selected_Literature\\Core_Evidence\\C000563_Federated_task_adaptive_learning_for_personalized_selection_of_human_IVF_derived_e.pdf",
+  "bytes": 2175735
+ },
+ "EE010": {
+  "paper_id": "EE010",
+  "doi": "10.3389/fendo.2025.1608318",
+  "title": "Embryo selection at the cleavage stage using Raman spectroscopy of day 3 culture medium and machine learning: a preliminary study.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2025.1608318/pdf",
+  "status": "downloaded_oa",
+  "detail": 5930566,
+  "bytes": 5930566
+ },
+ "EE011": {
+  "paper_id": "EE011",
+  "doi": "10.1371/journal.pone.0330924",
+  "title": "Deep learning methods to forecasting human embryo development in time-lapse videos.",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\PRISMA_and_Selected_Literature_v1.5\\Selected_Literature\\Core_Evidence\\C000705_Deep_learning_methods_to_forecasting_human_embryo_development_in_time_lapse_videos.pdf",
+  "bytes": 8151095
+ },
+ "EE012": {
+  "paper_id": "EE012",
+  "doi": "10.1038/s41598-025-17755-y",
+  "title": "MAIA platform for routine clinical testing: an artificial intelligence embryo selection tool developed to assist embryologists.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.nature.com/articles/s41598-025-17755-y.pdf",
+  "status": "downloaded_oa",
+  "detail": 1475797,
+  "bytes": 1475797
+ },
+ "EE013": {
+  "paper_id": "EE013",
+  "doi": "10.1016/j.fertnstert.2025.08.021",
+  "title": "Stability and reliability of artificial intelligence models in embryo selection for in vitro fertilization.",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\PRISMA_and_Selected_Literature_v1.5\\Selected_Literature\\Core_Evidence\\C000717_Stability_and_reliability_of_artificial_intelligence_models_in_embryo_selection_fo.pdf",
+  "bytes": 2463022
+ },
+ "EE015": {
+  "paper_id": "EE015",
+  "doi": "10.1007/s10815-025-03585-4",
+  "title": "Accurate machine learning model for human embryo morphokinetic stage detection.",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\PRISMA_and_Selected_Literature_v1.5\\Selected_Literature\\Core_Evidence\\C000731_Accurate_machine_learning_model_for_human_embryo_morphokinetic_stage_detection.pdf",
+  "bytes": 1246143
+ },
+ "EE017": {
+  "paper_id": "EE017",
+  "doi": "10.1038/s41598-025-10531-y",
+  "title": "Deep-learning model for embryo selection using time-lapse imaging of matched high-quality embryos.",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\PRISMA_and_Selected_Literature_v1.5\\Selected_Literature\\Core_Evidence\\C000760_Deep_learning_model_for_embryo_selection_using_time_lapse_imaging_of_matched_high.pdf",
+  "bytes": 2107896
+ },
+ "EE018": {
+  "paper_id": "EE018",
+  "doi": "10.1136/bmjopen-2025-099631",
+  "title": "Blastocyst selection through an interpretable artificial intelligence method versus traditional morphology grading: study protocol for a randomised controlled trial.",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.1136/bmjopen-2025-099631",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EE019": {
+  "paper_id": "EE019",
+  "doi": "10.1016/j.compbiomed.2025.110633",
+  "title": "Computer vision for automatic identification of blastocyst structures and blastocyst formation time in In-Vitro Fertilization.",
+  "oa_status": "hybrid",
+  "pdf_url": "https://doi.org/10.1016/j.compbiomed.2025.110633",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:2762"
+ },
+ "EE023": {
+  "paper_id": "EE023",
+  "doi": "10.1186/s12958-025-01351-w",
+  "title": "Application of a methodological framework for the development and multicenter validation of reliable artificial intelligence in embryo evaluation.",
+  "oa_status": "gold",
+  "pdf_url": "https://rbej.biomedcentral.com/counter/pdf/10.1186/s12958-025-01351-w",
+  "status": "downloaded_oa",
+  "detail": 2252959,
+  "bytes": 2252959
+ },
+ "EE024": {
+  "paper_id": "EE024",
+  "doi": "10.1093/bioinformatics/btae617",
+  "title": "Cleavage-stage embryo segmentation using SAM-based dual branch pipeline: development and evaluation with the CleavageEmbryo dataset.",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.1093/bioinformatics/btae617",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EE026": {
+  "paper_id": "EE026",
+  "doi": "10.1038/s41467-024-51823-7",
+  "title": "Automatic ploidy prediction and quality assessment of human blastocysts using time-lapse imaging.",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\datasets\\literature\\C001191_Automatic_ploidy_prediction_and_quality_assessment_of_human_blastocysts_using_time.pdf",
+  "bytes": 1524932
+ },
+ "EE027": {
+  "paper_id": "EE027",
+  "doi": "10.1093/biomethods/bpae052",
+  "title": "Deep learning pipeline reveals key moments in human embryonic development predictive of live birth after in vitro fertilization.",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.1093/biomethods/bpae052",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EE028": {
+  "paper_id": "EE028",
+  "doi": "10.1097/cm9.0000000000003162",
+  "title": "Artificial intelligence system for outcome evaluations of human in vitro fertilization-derived embryos.",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\PRISMA_and_Selected_Literature_v1.5\\Selected_Literature\\Core_Evidence\\C001243_Artificial_intelligence_system_for_outcome_evaluations_of_human_in_vitro_fertiliza.pdf",
+  "bytes": 3970479
+ },
+ "EE029": {
+  "paper_id": "EE029",
+  "doi": "10.1007/s10815-024-03178-7",
+  "title": "Beyond black-box models: explainable AI for embryo ploidy prediction and patient-centric consultation.",
+  "oa_status": "green",
+  "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11405599/pdf/10815_2024_Article_3178.pdf",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:1814"
+ },
+ "EE030": {
+  "paper_id": "EE030",
+  "doi": "10.1007/s10815-024-03148-z",
+  "title": "Leveraging federated learning for boosting data privacy and performance in IVF embryo selection.",
+  "oa_status": "green",
+  "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11263320/pdf/10815_2024_Article_3148.pdf",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:1817"
+ },
+ "EE031": {
+  "paper_id": "EE031",
+  "doi": "10.2196/52637",
+  "title": "Evaluation of the Clinical Efficacy and Trust in AI-Assisted Embryo Ranking: Survey-Based Prospective Study.",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.2196/52637",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:0"
+ },
+ "EE034": {
+  "paper_id": "EE034",
+  "doi": "10.1093/humrep/deae064",
+  "title": "Generative artificial intelligence to produce high-fidelity blastocyst-stage embryo images.",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\PRISMA_and_Selected_Literature_v1.5\\Selected_Literature\\Core_Evidence\\C001356_Generative_artificial_intelligence_to_produce_high_fidelity_blastocyst_stage_embry.pdf",
+  "bytes": 1696564
+ },
+ "EE035": {
+  "paper_id": "EE035",
+  "doi": "10.1186/s13048-024-01376-6",
+  "title": "A novel machine-learning framework based on early embryo morphokinetics identifies a feature signature associated with blastocyst development.",
+  "oa_status": "gold",
+  "pdf_url": "https://ovarianresearch.biomedcentral.com/counter/pdf/10.1186/s13048-024-01376-6",
+  "status": "downloaded_oa",
+  "detail": 2118805,
+  "bytes": 2118805
+ },
+ "EE037": {
+  "paper_id": "EE037",
+  "doi": "10.1186/s12958-024-01198-7",
+  "title": "Assessment of artificial intelligence model and manual morphokinetic annotation system as embryo grading methods for successful live birth prediction: a retrospective monocentric study.",
+  "oa_status": "gold",
+  "pdf_url": "https://rbej.biomedcentral.com/counter/pdf/10.1186/s12958-024-01198-7",
+  "status": "downloaded_oa",
+  "detail": 1047786,
+  "bytes": 1047786
+ },
+ "EE038": {
+  "paper_id": "EE038",
+  "doi": "10.1093/humrep/deae024",
+  "title": "BlastAssist: a deep learning pipeline to measure interpretable features of human embryos.",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\PRISMA_and_Selected_Literature_v1.5\\Selected_Literature\\Core_Evidence\\C001403_BlastAssist_a_deep_learning_pipeline_to_measure_interpretable_features_of_human_em.pdf",
+  "bytes": 1672874
+ },
+ "EE041": {
+  "paper_id": "EE041",
+  "doi": "10.1097/cm9.0000000000002803",
+  "title": "Knowledge-embedded spatio-temporal analysis for euploidy embryos identification in couples with chromosomal rearrangements.",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.1097/cm9.0000000000002803",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EE042": {
+  "paper_id": "EE042",
+  "doi": "10.1002/advs.202207711",
+  "title": "Using Unlabeled Information of Embryo Siblings from the Same Cohort Cycle to Enhance In Vitro Fertilization Implantation Prediction.",
+  "oa_status": "gold",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202207711",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EE044": {
+  "paper_id": "EE044",
+  "doi": "10.1007/s10815-023-02871-3",
+  "title": "Comparing performance between clinics of an embryo evaluation algorithm based on time-lapse images and machine learning.",
+  "oa_status": "hybrid",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10815-023-02871-3.pdf",
+  "status": "downloaded_oa",
+  "detail": 1123222,
+  "bytes": 1123222
+ },
+ "EE045": {
+  "paper_id": "EE045",
+  "doi": "10.1007/s10815-023-02806-y",
+  "title": "Delineating the heterogeneity of embryo preimplantation development using automated and accurate morphokinetic annotation.",
+  "oa_status": "hybrid",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10815-023-02806-y.pdf",
+  "status": "downloaded_oa",
+  "detail": 6120185,
+  "bytes": 6120185
+ },
+ "EE046": {
+  "paper_id": "EE046",
+  "doi": "10.1038/s41597-023-02182-3",
+  "title": "An annotated human blastocyst dataset to benchmark deep learning architectures for in vitro fertilization.",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\datasets\\literature\\C001692_An_annotated_human_blastocyst_dataset_to_benchmark_deep_learning_architectures_for.pdf",
+  "bytes": 1110142
+ },
+ "EE047": {
+  "paper_id": "EE047",
+  "doi": "10.1038/s41598-023-31136-3",
+  "title": "Development and validation of deep learning based embryo selection across multiple days of transfer.",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\PRISMA_and_Selected_Literature_v1.5\\Selected_Literature\\Core_Evidence\\C001746_Development_and_validation_of_deep_learning_based_embryo_selection_across_multiple.pdf",
+  "bytes": 1321597
+ },
+ "EE048": {
+  "paper_id": "EE048",
+  "doi": "10.3390/jcm12051806",
+  "title": "Towards Automation in IVF: Pre-Clinical Validation of a Deep Learning-Based Embryo Grading System during PGT-A Cycles.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.mdpi.com/2077-0383/12/5/1806/pdf?version=1678329034",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EE050": {
+  "paper_id": "EE050",
+  "doi": "10.1007/s10815-022-02707-6",
+  "title": "The use of voting ensembles to improve the accuracy of deep neural networks as a non-invasive method to predict embryo ploidy status.",
+  "oa_status": "green",
+  "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9935776/pdf/10815_2022_Article_2707.pdf",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:1817"
+ },
+ "EE052": {
+  "paper_id": "EE052",
+  "doi": "10.1016/j.xagr.2022.100103",
+  "title": "Application of machine learning to predict aneuploidy and mosaicism in embryos from in vitro fertilization cycles.",
+  "oa_status": "gold",
+  "pdf_url": "https://www.sciencedirect.com/science/article/pii/S2666577822000521/pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EE058": {
+  "paper_id": "EE058",
+  "doi": "10.1016/j.xfre.2022.04.004",
+  "title": "Development of a dynamic machine learning algorithm to predict clinical pregnancy and live birth rate with embryo morphokinetics.",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.1016/j.xfre.2022.04.004",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:2708"
+ },
+ "EE059": {
+  "paper_id": "EE059",
+  "doi": "10.1093/humrep/deac131",
+  "title": "Development of an artificial intelligence model for predicting the likelihood of human embryo euploidy based on blastocyst images from multiple imaging systems during IVF.",
+  "oa_status": "hybrid",
+  "pdf_url": "https://academic.oup.com/humrep/article-pdf/37/8/1746/45197911/deac131.pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EE060": {
+  "paper_id": "EE060",
+  "doi": "10.1016/j.cmpb.2022.106895",
+  "title": "Automatic characterization of human embryos at day 4 post-insemination from time-lapse imaging using supervised contrastive learning and inductive transfer learning techniques.",
+  "oa_status": "hybrid",
+  "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0169260722002772/pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EE061": {
+  "paper_id": "EE061",
+  "doi": "10.1016/j.dib.2022.108258",
+  "title": "A time-lapse embryo dataset for morphokinetic parameter prediction.",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\datasets\\literature\\C002033_A_time_lapse_embryo_dataset_for_morphokinetic_parameter_prediction.pdf",
+  "bytes": 766976
+ },
+ "EE062": {
+  "paper_id": "EE062",
+  "doi": "10.1002/rmb2.12443",
+  "title": "A novel system based on artificial intelligence for predicting blastocyst viability and visualizing the explanation.",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\PRISMA_and_Selected_Literature_v1.5\\Selected_Literature\\Core_Evidence\\C002075_A_novel_system_based_on_artificial_intelligence_for_predicting_blastocyst_viabilit.pdf",
+  "bytes": 890781
+ },
+ "EE064": {
+  "paper_id": "EE064",
+  "doi": "10.1186/s12884-021-04373-5",
+  "title": "Using deep learning to predict the outcome of live birth from more than 10,000 embryo data.",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\PRISMA_and_Selected_Literature_v1.5\\Selected_Literature\\Core_Evidence\\C002142_Using_deep_learning_to_predict_the_outcome_of_live_birth_from_more_than_10_000_emb.pdf",
+  "bytes": 1164827
+ },
+ "EE066": {
+  "paper_id": "EE066",
+  "doi": "10.1186/s12958-021-00864-4",
+  "title": "An artificial intelligence model (euploid prediction algorithm) can predict embryo ploidy status based on time-lapse data.",
+  "oa_status": "gold",
+  "pdf_url": "https://rbej.biomedcentral.com/counter/pdf/10.1186/s12958-021-00864-4",
+  "status": "downloaded_oa",
+  "detail": 1488228,
+  "bytes": 1488228
+ },
+ "EE067": {
+  "paper_id": "EE067",
+  "doi": "10.1007/s10815-021-02318-7",
+  "title": "Should there be an \"AI\" in TEAM? Embryologists selection of high implantation potential embryos improves with the aid of an artificial intelligence algorithm.",
+  "oa_status": "green",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8581077",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:156681"
+ },
+ "EE068": {
+  "paper_id": "EE068",
+  "doi": "10.1016/j.rbmo.2021.05.002",
+  "title": "Evaluation of artificial intelligence using time-lapse images of IVF embryos to predict live birth.",
+  "oa_status": "closed",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EE070": {
+  "paper_id": "EE070",
+  "doi": "10.1007/s10815-021-02228-8",
+  "title": "End-to-end deep learning for recognition of ploidy status using time-lapse videos.",
+  "oa_status": "green",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8324635",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:176306"
+ },
+ "EE072": {
+  "paper_id": "EE072",
+  "doi": "10.1016/j.rbmo.2020.09.031",
+  "title": "An artificial intelligence model based on the proteomic profile of euploid embryos and blastocyst morphology: a preliminary study.",
+  "oa_status": "green",
+  "pdf_url": "http://hdl.handle.net/11449/208212",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:684615"
+ },
+ "EE073": {
+  "paper_id": "EE073",
+  "doi": "10.7554/elife.55301",
+  "title": "Performance of a deep learning based neural network in the selection of human blastocysts for implantation.",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\PRISMA_and_Selected_Literature_v1.5\\Selected_Literature\\Core_Evidence\\C002524_Performance_of_a_deep_learning_based_neural_network_in_the_selection_of_human_blas.pdf",
+  "bytes": 1183207
+ },
+ "EE074": {
+  "paper_id": "EE074",
+  "doi": "10.1016/j.fertnstert.2020.08.023",
+  "title": "Novel and conventional embryo parameters as input data for artificial neural networks: an artificial intelligence model applied for prediction of the implantation potential.",
+  "oa_status": "bronze",
+  "pdf_url": "http://www.fertstert.org/article/S0015028220307779/pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EE076": {
+  "paper_id": "EE076",
+  "doi": "10.1093/humrep/deaa013",
+  "title": "Development of an artificial intelligence-based assessment model for prediction of embryo viability using static images captured by optical light microscopy during IVF.",
+  "oa_status": "hybrid",
+  "pdf_url": "https://doi.org/10.1093/humrep/deaa013",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EE077": {
+  "paper_id": "EE077",
+  "doi": "10.1016/j.fertnstert.2019.12.004",
+  "title": "Consistency and objectivity of automated embryo assessments using deep neural networks.",
+  "oa_status": "hybrid",
+  "pdf_url": "http://www.fertstert.org/article/S0015028219326056/pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EE080": {
+  "paper_id": "EE080",
+  "doi": "10.1093/humrep/dez064",
+  "title": "Deep learning as a predictive tool for fetal heart pregnancy following time-lapse incubation and blastocyst transfer.",
+  "oa_status": "hybrid",
+  "pdf_url": "https://academic.oup.com/humrep/article-pdf/34/6/1011/32393929/dez064.pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EE081": {
+  "paper_id": "EE081",
+  "doi": "10.1177/0962280216651098",
+  "title": "Fitting the data from embryo implantation prediction: Learning from label proportions.",
+  "oa_status": "green",
+  "pdf_url": "https://bird.bcamath.org/bitstream/20.500.11824/138/1/bcam.pdf",
+  "status": "downloaded_oa",
+  "detail": 369943,
+  "bytes": 369943
+ },
+ "EE082": {
+  "paper_id": "EE082",
+  "doi": "10.1186/s12958-016-0145-1",
+  "title": "Selecting the embryo with the highest implantation potential using a data mining based prediction model.",
+  "oa_status": "gold",
+  "pdf_url": "https://rbej.biomedcentral.com/track/pdf/10.1186/s12958-016-0145-1",
+  "status": "downloaded_oa",
+  "detail": 1109024,
+  "bytes": 1109024
+ },
+ "EE083": {
+  "paper_id": "EE083",
+  "doi": "10.1007/978-3-642-40763-5_57",
+  "title": "Automated embryo stage classification in time-lapse microscopy video of early human embryo development.",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\PRISMA_and_Selected_Literature_v1.5\\Selected_Literature\\Core_Evidence\\C003635_Automated_embryo_stage_classification_in_time_lapse_microscopy_video_of_early_huma.pdf",
+  "bytes": 1539119
+ },
+ "EM001": {
+  "paper_id": "EM001",
+  "doi": "10.1023/a:1010933404324",
+  "title": "Random Forests",
+  "oa_status": "green",
+  "pdf_url": "https://www.ine.es/up/zEkXkJIZ",
+  "status": "unavailable",
+  "detail": "err:<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>"
+ },
+ "EM002": {
+  "paper_id": "EM002",
+  "doi": "10.1145/2939672.2939785",
+  "title": "XGBoost: A Scalable Tree Boosting System",
+  "oa_status": "bronze",
+  "pdf_url": "http://dl.acm.org/ft_gateway.cfm?id=2939785&type=pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EM003": {
+  "paper_id": "EM003",
+  "doi": "",
+  "title": "CatBoost: unbiased boosting with categorical features",
+  "oa_status": "no_doi",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EM004": {
+  "paper_id": "EM004",
+  "doi": "10.1007/bf00994018",
+  "title": "Support-vector networks",
+  "oa_status": "bronze",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/BF00994018.pdf",
+  "status": "downloaded_oa",
+  "detail": 1502380,
+  "bytes": 1502380
+ },
+ "EM005": {
+  "paper_id": "EM005",
+  "doi": "10.1109/cvpr.2016.90",
+  "title": "Deep Residual Learning for Image Recognition",
+  "oa_status": "green",
+  "pdf_url": "https://repositorio.unal.edu.co/handle/unal/81443",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:526958"
+ },
+ "EM006": {
+  "paper_id": "EM006",
+  "doi": "",
+  "title": "Very Deep Convolutional Networks for Large-Scale Image Recognition",
+  "oa_status": "no_doi",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EM007": {
+  "paper_id": "EM007",
+  "doi": "10.1109/cvpr.2015.7298594",
+  "title": "Going deeper with convolutions",
+  "oa_status": "closed",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EM008": {
+  "paper_id": "EM008",
+  "doi": "10.1007/978-3-319-24574-4_28",
+  "title": "U-Net: Convolutional Networks for Biomedical Image Segmentation",
+  "oa_status": "bronze",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/978-3-319-24574-4_28.pdf",
+  "status": "downloaded_oa",
+  "detail": 1540391,
+  "bytes": 1540391
+ },
+ "EM009": {
+  "paper_id": "EM009",
+  "doi": "10.1038/s41592-020-01008-z",
+  "title": "nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation",
+  "oa_status": "green",
+  "pdf_url": "https://arxiv.org/pdf/1904.08128",
+  "status": "downloaded_oa",
+  "detail": 9332797,
+  "bytes": 9332797
+ },
+ "EM010": {
+  "paper_id": "EM010",
+  "doi": "10.1109/cvpr.2016.91",
+  "title": "You Only Look Once: Unified, Real-Time Object Detection",
+  "oa_status": "green",
+  "pdf_url": "https://arxiv.org/pdf/1506.02640",
+  "status": "downloaded_oa",
+  "detail": 5296750,
+  "bytes": 5296750
+ },
+ "EM011": {
+  "paper_id": "EM011",
+  "doi": "10.1109/iccv.2017.322",
+  "title": "Mask R-CNN",
+  "oa_status": "green",
+  "pdf_url": "https://hal.archives-ouvertes.fr/hal-02974521",
+  "status": "unavailable",
+  "detail": "http_404"
+ },
+ "EM012": {
+  "paper_id": "EM012",
+  "doi": "10.1109/cvpr.2017.243",
+  "title": "Densely Connected Convolutional Networks",
+  "oa_status": "closed",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EM013": {
+  "paper_id": "EM013",
+  "doi": "",
+  "title": "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks",
+  "oa_status": "no_doi",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EM014": {
+  "paper_id": "EM014",
+  "doi": "10.1162/neco.1997.9.8.1735",
+  "title": "Long Short-Term Memory",
+  "oa_status": "closed",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EM015": {
+  "paper_id": "EM015",
+  "doi": "10.3115/v1/d14-1179",
+  "title": "Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation",
+  "oa_status": "hybrid",
+  "pdf_url": "https://aclanthology.org/D14-1179.pdf",
+  "status": "downloaded_oa",
+  "detail": 620380,
+  "bytes": 620380
+ },
+ "EM016": {
+  "paper_id": "EM016",
+  "doi": "",
+  "title": "Attention is All you Need",
+  "oa_status": "no_doi",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EM017": {
+  "paper_id": "EM017",
+  "doi": "",
+  "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+  "oa_status": "no_doi",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EM018": {
+  "paper_id": "EM018",
+  "doi": "10.1109/iccv48922.2021.00986",
+  "title": "Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows",
+  "oa_status": "closed",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EM019": {
+  "paper_id": "EM019",
+  "doi": "10.1109/iccv.2015.510",
+  "title": "Learning Spatiotemporal Features With 3D Convolutional Networks",
+  "oa_status": "closed",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EM020": {
+  "paper_id": "EM020",
+  "doi": "10.1109/cvpr.2017.502",
+  "title": "Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset",
+  "oa_status": "green",
+  "pdf_url": "https://arxiv.org/pdf/1705.07750",
+  "status": "downloaded_oa",
+  "detail": 1504052,
+  "bytes": 1504052
+ },
+ "EM021": {
+  "paper_id": "EM021",
+  "doi": "",
+  "title": "Is Space-Time Attention All You Need for Video Understanding?",
+  "oa_status": "no_doi",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EM022": {
+  "paper_id": "EM022",
+  "doi": "",
+  "title": "Attention-based Deep Multiple Instance Learning",
+  "oa_status": "no_doi",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EM023": {
+  "paper_id": "EM023",
+  "doi": "",
+  "title": "Deep Sets",
+  "oa_status": "no_doi",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EM024": {
+  "paper_id": "EM024",
+  "doi": "10.1186/s12874-018-0482-1",
+  "title": "DeepSurv: personalized treatment recommender system using a Cox proportional hazards deep neural network",
+  "oa_status": "gold",
+  "pdf_url": "https://bmcmedresmethodol.biomedcentral.com/track/pdf/10.1186/s12874-018-0482-1",
+  "status": "downloaded_oa",
+  "detail": 2597126,
+  "bytes": 2597126
+ },
+ "EM025": {
+  "paper_id": "EM025",
+  "doi": "",
+  "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+  "oa_status": "no_doi",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EM026": {
+  "paper_id": "EM026",
+  "doi": "10.1109/cvpr52688.2022.01553",
+  "title": "Masked Autoencoders Are Scalable Vision Learners",
+  "oa_status": "green",
+  "pdf_url": "https://doi.org/10.57702/hevhzb1p",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:7541"
+ },
+ "EM027": {
+  "paper_id": "EM027",
+  "doi": "10.1371/journal.pone.0118432",
+  "title": "The Precision-Recall Plot Is More Informative than the ROC Plot When Evaluating Binary Classifiers on Imbalanced Datasets",
+  "oa_status": "gold",
+  "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0118432&type=printable",
+  "status": "downloaded_oa",
+  "detail": 1233476,
+  "bytes": 1233476
+ },
+ "EM028": {
+  "paper_id": "EM028",
+  "doi": "",
+  "title": "On Calibration of Modern Neural Networks",
+  "oa_status": "no_doi",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EM029": {
+  "paper_id": "EM029",
+  "doi": "10.1186/s12916-019-1466-7",
+  "title": "Calibration: the Achilles heel of predictive analytics",
+  "oa_status": "gold",
+  "pdf_url": "https://bmcmedicine.biomedcentral.com/track/pdf/10.1186/s12916-019-1466-7",
+  "status": "downloaded_oa",
+  "detail": 634444,
+  "bytes": 634444
+ },
+ "EM030": {
+  "paper_id": "EM030",
+  "doi": "10.1177/0272989x06295361",
+  "title": "Decision Curve Analysis: A Novel Method for Evaluating Prediction Models",
+  "oa_status": "green",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/2577036",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:165805"
+ },
+ "EM031": {
+  "paper_id": "EM031",
+  "doi": "10.1198/016214506000001437",
+  "title": "Strictly Proper Scoring Rules, Prediction, and Estimation",
+  "oa_status": "closed",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EM033": {
+  "paper_id": "EM033",
+  "doi": "10.1136/bmj-2023-078378",
+  "title": "TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods",
+  "oa_status": "hybrid",
+  "pdf_url": "https://www.bmj.com/content/bmj/385/bmj-2023-078378.full.pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EM034": {
+  "paper_id": "EM034",
+  "doi": "10.1038/s41591-020-1034-x",
+  "title": "Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension",
+  "oa_status": "hybrid",
+  "pdf_url": "https://www.nature.com/articles/s41591-020-1034-x.pdf",
+  "status": "downloaded_oa",
+  "detail": 1101432,
+  "bytes": 1101432
+ },
+ "EM035": {
+  "paper_id": "EM035",
+  "doi": "10.1038/s41591-020-1037-7",
+  "title": "Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI extension",
+  "oa_status": "hybrid",
+  "pdf_url": "https://www.nature.com/articles/s41591-020-1037-7.pdf",
+  "status": "downloaded_oa",
+  "detail": 1099791,
+  "bytes": 1099791
+ },
+ "EM036": {
+  "paper_id": "EM036",
+  "doi": "10.1038/s41591-022-01772-9",
+  "title": "Reporting guideline for the early-stage clinical evaluation of decision support systems driven by artificial intelligence: DECIDE-AI",
+  "oa_status": "green",
+  "pdf_url": "https://cris.maastrichtuniversity.nl/en/publications/98c80fdd-beda-4e9b-be63-2a83576fb717",
+  "status": "unavailable",
+  "detail": "err:<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+ },
+ "EM037": {
+  "paper_id": "EM037",
+  "doi": "10.1038/s41592-023-02151-z",
+  "title": "Metrics reloaded: recommendations for image analysis validation",
+  "oa_status": "green",
+  "pdf_url": "https://pure.amsterdamumc.nl/en/publications/0492f41c-4919-4fa3-ab58-abfb51e6e7e0",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:79756"
+ },
+ "EM038": {
+  "paper_id": "EM038",
+  "doi": "10.1038/s41592-023-02150-0",
+  "title": "Understanding metric-related pitfalls in image analysis validation",
+  "oa_status": "bronze",
+  "pdf_url": "https://www.nature.com/articles/s41592-023-02150-0.pdf",
+  "status": "downloaded_oa",
+  "detail": 3351401,
+  "bytes": 3351401
+ },
+ "EM039": {
+  "paper_id": "EM039",
+  "doi": "",
+  "title": "A Unified Approach to Interpreting Model Predictions",
+  "oa_status": "no_doi",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EM040": {
+  "paper_id": "EM040",
+  "doi": "10.1145/2939672.2939778",
+  "title": "\"Why Should I Trust You?\": Explaining the Predictions of Any Classifier",
+  "oa_status": "closed",
+  "pdf_url": "https://www.aclweb.org/anthology/N16-3020.pdf",
+  "status": "downloaded_oa",
+  "detail": "semanticscholar",
+  "bytes": 235200
+ },
+ "EM041": {
+  "paper_id": "EM041",
+  "doi": "10.1109/iccv.2017.74",
+  "title": "Grad-CAM: Visual Explanations From Deep Networks via Gradient-Based Localization",
+  "oa_status": "closed",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EM042": {
+  "paper_id": "EM042",
+  "doi": "",
+  "title": "Sanity Checks for Saliency Maps",
+  "oa_status": "no_doi",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EM043": {
+  "paper_id": "EM043",
+  "doi": "",
+  "title": "What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?",
+  "oa_status": "no_doi",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "EMBRYO01": {
+  "paper_id": "EMBRYO01",
+  "doi": "10.1038/s41746-019-0096-y",
+  "title": "Deep learning enables robust assessment and selection of human blastocysts after in vitro fertilization",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\PRISMA_and_Selected_Literature_v1.5\\Selected_Literature\\Core_Evidence\\C002768_Deep_learning_enables_robust_assessment_and_selection_of_human_blastocysts_after_i.pdf",
+  "bytes": 3047674
+ },
+ "EMBRYO02": {
+  "paper_id": "EMBRYO02",
+  "doi": "10.1016/j.compbiomed.2019.103494",
+  "title": "Automatic grading of human blastocysts from time-lapse imaging",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\PRISMA_and_Selected_Literature_v1.5\\Selected_Literature\\Core_Evidence\\C002722_Automatic_grading_of_human_blastocysts_from_time_lapse_imaging.pdf",
+  "bytes": 1072738
+ },
+ "EMBRYO03": {
+  "paper_id": "EMBRYO03",
+  "doi": "10.1111/jcmm.16288",
+  "title": "Application of convolutional neural network on early human embryo segmentation during in vitro fertilization",
+  "oa_status": "gold",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jcmm.16288",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "EMBRYO04": {
+  "paper_id": "EMBRYO04",
+  "doi": "10.1038/s42003-021-01937-1",
+  "title": "Development of deep learning algorithms for predicting blastocyst formation and quality by time-lapse monitoring",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\PRISMA_and_Selected_Literature_v1.5\\Selected_Literature\\Core_Evidence\\C002378_Development_of_deep_learning_algorithms_for_predicting_blastocyst_formation_and_qu.pdf",
+  "bytes": 1536527
+ },
+ "EMBRYO05": {
+  "paper_id": "EMBRYO05",
+  "doi": "10.1016/s2589-7500(22)00213-8",
+  "title": "A non-invasive artificial intelligence approach for the prediction of human blastocyst ploidy: a retrospective model development and validation study",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.1016/s2589-7500(22)00213-8",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:2700"
+ },
+ "EMBRYO06": {
+  "paper_id": "EMBRYO06",
+  "doi": "10.1016/j.patter.2024.100985",
+  "title": "A generalized AI system for human embryo selection covering the entire IVF cycle via multi-modal contrastive learning",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\datasets\\literature\\C001223_A_generalized_AI_system_for_human_embryo_selection_covering_the_entire_IVF_cycle_v.pdf",
+  "bytes": 4448512
+ },
+ "EQF01": {
+  "paper_id": "EQF01",
+  "doi": "10.1038/s41467-025-61116-2",
+  "title": "A foundational model for in vitro fertilization trained on 18 million time-lapse images",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\datasets\\literature\\C000796_A_foundational_model_for_in_vitro_fertilization_trained_on_18_million_time_lapse_i.pdf",
+  "bytes": 3010579
+ },
+ "EQF02": {
+  "paper_id": "EQF02",
+  "doi": "10.1038/s41746-026-02672-9",
+  "title": "Trial emulation for validating the clinical efficacy of a foundational AI model in embryo selection",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.1038/s41746-026-02672-9",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:335281"
+ },
+ "EQS01": {
+  "paper_id": "EQS01",
+  "doi": "10.7717/peerj-cs.3173",
+  "title": "Unveiling the capabilities of vision transformers in sperm morphology analysis: a comparative evaluation",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.7717/peerj-cs.3173",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "ER001": {
+  "paper_id": "ER001",
+  "doi": "10.1007/s10815-020-01881-9",
+  "title": "Artificial intelligence in the IVF laboratory: overview through the application of different types of algorithms for the classification of reproductive data",
+  "oa_status": "bronze",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10815-020-01881-9.pdf",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:377703"
+ },
+ "ER002": {
+  "paper_id": "ER002",
+  "doi": "10.1007/s10815-021-02123-2",
+  "title": "Review of computer vision application in in vitro fertilization: the application of deep learning-based computer vision technology in the world of IVF",
+  "oa_status": "green",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8324729",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:210039"
+ },
+ "ER003": {
+  "paper_id": "ER003",
+  "doi": "10.5455/aim.2019.27.205-211",
+  "title": "A Review of Machine Learning Approaches in Assisted Reproductive Technologies",
+  "oa_status": "green",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6853715",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:21303"
+ },
+ "ER005": {
+  "paper_id": "ER005",
+  "doi": "10.1007/s10815-018-1266-6",
+  "title": "Are computational applications the \"crystal ball\" in the IVF laboratory? The evolution from mathematics to artificial intelligence",
+  "oa_status": "bronze",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10815-018-1266-6.pdf",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:425632"
+ },
+ "ER009": {
+  "paper_id": "ER009",
+  "doi": "10.1007/s10815-022-02693-9",
+  "title": "Looking with new eyes: advanced microscopy and artificial intelligence in reproductive medicine",
+  "oa_status": "green",
+  "pdf_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/9935756",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:147411"
+ },
+ "ER010": {
+  "paper_id": "ER010",
+  "doi": "10.5935/1518-0557.20250019",
+  "title": "Use of time-lapse technology and artificial intelligence in the embryology laboratory: an updated review",
+  "oa_status": "bronze",
+  "pdf_url": "https://doi.org/10.5935/1518-0557.20250019",
+  "status": "downloaded_oa",
+  "detail": 249718,
+  "bytes": 249718
+ },
+ "ER013": {
+  "paper_id": "ER013",
+  "doi": "10.21037/tau-21-276",
+  "title": "The validity and reliability of computer-aided semen analyzers in performing semen analysis: a systematic review",
+  "oa_status": "diamond",
+  "pdf_url": "https://tau.amegroups.com/article/viewFile/73822/pdf",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:0"
+ },
+ "ER014": {
+  "paper_id": "ER014",
+  "doi": "10.5534/wjmh.230050",
+  "title": "Artificial Intelligence in Andrology: From Semen Analysis to Image Diagnostics",
+  "oa_status": "diamond",
+  "pdf_url": "http://wjmh.org/Synapse/Data/PDFData/2074WJMH/wjmh-42-39.pdf",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:1730"
+ },
+ "ER015": {
+  "paper_id": "ER015",
+  "doi": "10.3390/diagnostics12122979",
+  "title": "The Future Is Coming: Artificial Intelligence in the Treatment of Infertility Could Improve Assisted Reproduction Outcomes-The Value of Regulatory Frameworks",
+  "oa_status": "gold",
+  "pdf_url": "https://www.mdpi.com/2075-4418/12/12/2979/pdf?version=1669804631",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "ER019": {
+  "paper_id": "ER019",
+  "doi": "10.1038/s41597-023-02173-4",
+  "title": "VISEM-Tracking, a human spermatozoa tracking dataset",
+  "oa_status": "gold",
+  "pdf_url": "https://www.nature.com/articles/s41597-023-02173-4.pdf",
+  "status": "downloaded_oa",
+  "detail": 1639641,
+  "bytes": 1639641
+ },
+ "ER027": {
+  "paper_id": "ER027",
+  "doi": "10.1038/s41597-025-05177-4",
+  "title": "3D+t Multifocal Imaging Dataset of Human Sperm",
+  "oa_status": "gold",
+  "pdf_url": "https://www.nature.com/articles/s41597-025-05177-4.pdf",
+  "status": "downloaded_oa",
+  "detail": 1361910,
+  "bytes": 1361910
+ },
+ "ER028": {
+  "paper_id": "ER028",
+  "doi": "10.1038/s41597-026-06876-2",
+  "title": "3D+t human sperm flagellum centerline dataset",
+  "oa_status": "gold",
+  "pdf_url": "https://www.nature.com/articles/s41597-026-06876-2_reference.pdf",
+  "status": "downloaded_oa",
+  "detail": 1245447,
+  "bytes": 1245447
+ },
+ "ER029": {
+  "paper_id": "ER029",
+  "doi": "10.1093/humrep/dex234",
+  "title": "The International Glossary on Infertility and Fertility Care, 2017",
+  "oa_status": "hybrid",
+  "pdf_url": "https://academic.oup.com/humrep/article-pdf/32/9/1786/24265519/dex234.pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "ER030": {
+  "paper_id": "ER030",
+  "doi": "10.1093/humrep/deag029",
+  "title": "The International Glossary on Infertility and Fertility Care, 2025",
+  "oa_status": "openalex_err:HTTP Error 404: Not Found",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "ER032": {
+  "paper_id": "ER032",
+  "doi": "10.1093/humrep/deaf021",
+  "title": "The Istanbul consensus update: a revised ESHRE/ALPHA consensus on oocyte and embryo static and dynamic morphological assessment",
+  "oa_status": "hybrid",
+  "pdf_url": "https://doi.org/10.1093/humrep/deaf021",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "ER033": {
+  "paper_id": "ER033",
+  "doi": "10.1093/hropen/hox011",
+  "title": "The Vienna consensus: report of an expert meeting on the development of art laboratory performance indicators",
+  "oa_status": "gold",
+  "pdf_url": "https://academic.oup.com/hropen/article-pdf/2017/2/hox011/29018040/hox011.pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "ER034": {
+  "paper_id": "ER034",
+  "doi": "10.1093/humrep/deaa241",
+  "title": "Developing a core outcome set for future infertility research: an international consensus development study",
+  "oa_status": "hybrid",
+  "pdf_url": "https://academic.oup.com/humrep/article-pdf/35/12/2725/42359047/deaa241.pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "ER035": {
+  "paper_id": "ER035",
+  "doi": "10.1093/humrep/deaa243",
+  "title": "Standardizing definitions and reporting guidelines for the infertility core outcome set: an international consensus development study",
+  "oa_status": "hybrid",
+  "pdf_url": "https://academic.oup.com/humrep/article-pdf/35/12/2735/42359037/deaa243.pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "ER036": {
+  "paper_id": "ER036",
+  "doi": "10.1093/humrep/deaf039",
+  "title": "A core outcome set for future male infertility research: development of an international consensus",
+  "oa_status": "hybrid",
+  "pdf_url": "https://academic.oup.com/humrep/advance-article-pdf/doi/10.1093/humrep/deaf039/62928468/deaf039.pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "ER037": {
+  "paper_id": "ER037",
+  "doi": "10.1136/bmj.i5735",
+  "title": "Predicting the chances of a live birth after one or more complete cycles of in vitro fertilisation: population based study of linked cycle data from 113 873 women",
+  "oa_status": "hybrid",
+  "pdf_url": "https://www.bmj.com/content/bmj/355/bmj.i5735.full.pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "ER039": {
+  "paper_id": "ER039",
+  "doi": "10.1371/journal.pmed.1000386",
+  "title": "Predicting live birth, preterm delivery, and low birth weight in infants born from in vitro fertilisation: a prospective study of 144,018 treatment cycles",
+  "oa_status": "gold",
+  "pdf_url": "https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1000386&type=printable",
+  "status": "downloaded_oa",
+  "detail": 193457,
+  "bytes": 193457
+ },
+ "ER044": {
+  "paper_id": "ER044",
+  "doi": "10.1242/jcs.260281",
+  "title": "An interpretable and versatile machine learning approach for oocyte phenotyping",
+  "oa_status": "hybrid",
+  "pdf_url": "https://journals.biologists.com/jcs/article-pdf/doi/10.1242/jcs.260281/2146952/jcs260281.pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "ER045": {
+  "paper_id": "ER045",
+  "doi": "10.1098/rsif.2021.0475",
+  "title": "Inferring simple but precise quantitative models of human oocyte and early embryo development",
+  "oa_status": "green",
+  "pdf_url": "https://arxiv.org/pdf/2103.12187",
+  "status": "downloaded_oa",
+  "detail": 5241382,
+  "bytes": 5241382
+ },
+ "ER046": {
+  "paper_id": "ER046",
+  "doi": "10.1145/3304109.3325814",
+  "title": "VISEM: a multimodal video dataset of human spermatozoa",
+  "oa_status": "hybrid",
+  "pdf_url": "https://doi.org/10.1145/3304109.3325814",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "KHAN2020": {
+  "paper_id": "KHAN2020",
+  "doi": "10.1007/s10462-020-09825-6",
+  "title": "A survey of the recent architectures of deep convolutional neural networks",
+  "oa_status": "green",
+  "pdf_url": "https://arxiv.org/pdf/1901.06032",
+  "status": "downloaded_oa",
+  "detail": 1550973,
+  "bytes": 1550973
+ },
+ "OOCYTE01": {
+  "paper_id": "OOCYTE01",
+  "doi": "10.1016/j.rbmo.2024.103842",
+  "title": "An artificial intelligence tool predicts blastocyst development from static images of fresh mature oocytes",
+  "oa_status": "hybrid",
+  "pdf_url": "http://www.rbmojournal.com/article/S1472648324000312/pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "OOCYTE02": {
+  "paper_id": "OOCYTE02",
+  "doi": "10.1038/s41598-024-60901-1",
+  "title": "Segmentation of mature human oocytes provides interpretable and improved blastocyst outcome predictions by a machine learning model",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.1038/s41598-024-60901-1",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:436090"
+ },
+ "OUTCOME01": {
+  "paper_id": "OUTCOME01",
+  "doi": "10.1038/s41598-020-76928-z",
+  "title": "Machine learning predicts live-birth occurrence before in-vitro fertilization treatment",
+  "oa_status": "gold",
+  "pdf_url": "https://www.nature.com/articles/s41598-020-76928-z.pdf",
+  "status": "downloaded_oa",
+  "detail": 3246390,
+  "bytes": 3246390
+ },
+ "OUTCOME03": {
+  "paper_id": "OUTCOME03",
+  "doi": "10.1371/journal.pone.0262661",
+  "title": "Robust and generalizable embryo selection based on artificial intelligence and time-lapse image sequences",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\PRISMA_and_Selected_Literature_v1.5\\Selected_Literature\\Core_Evidence\\C002119_Robust_and_generalizable_embryo_selection_based_on_artificial_intelligence_and_tim.pdf",
+  "bytes": 759312
+ },
+ "OUTCOME04": {
+  "paper_id": "OUTCOME04",
+  "doi": "10.1007/s10815-022-02562-5",
+  "title": "Correlation between an annotation-free embryo scoring system based on deep learning and live birth/neonatal outcomes after single vitrified-warmed blastocyst transfer: a single-centre, large-cohort retrospective study",
+  "oa_status": "hybrid",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10815-022-02562-5.pdf",
+  "status": "downloaded_oa",
+  "detail": 1090946,
+  "bytes": 1090946
+ },
+ "OUTCOME05": {
+  "paper_id": "OUTCOME05",
+  "doi": "10.1038/s41591-024-03166-5",
+  "title": "Deep learning versus manual morphology-based embryo selection in IVF: a randomized, double-blind noninferiority trial",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\PRISMA_and_Selected_Literature_v1.5\\Selected_Literature\\Core_Evidence\\C001216_Deep_learning_versus_manual_morphology_based_embryo_selection_in_IVF_a_randomized.pdf",
+  "bytes": 2606374
+ },
+ "PRISMA2020": {
+  "paper_id": "PRISMA2020",
+  "doi": "10.1136/bmj.n71",
+  "title": "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews",
+  "oa_status": "hybrid",
+  "pdf_url": "https://www.bmj.com/content/bmj/372/bmj.n71.full.pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "PRISMAS": {
+  "paper_id": "PRISMAS",
+  "doi": "10.1186/s13643-020-01542-z",
+  "title": "PRISMA-S: an extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews",
+  "oa_status": "gold",
+  "pdf_url": "https://systematicreviewsjournal.biomedcentral.com/track/pdf/10.1186/s13643-020-01542-z",
+  "status": "downloaded_oa",
+  "detail": 737278,
+  "bytes": 737278
+ },
+ "PRISMASCR": {
+  "paper_id": "PRISMASCR",
+  "doi": "10.7326/m18-0850",
+  "title": "PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation",
+  "oa_status": "green",
+  "pdf_url": "https://eprints.whiterose.ac.uk/id/eprint/136633/1/PRISMA_ScR_Manuscript_July6th_clean_1_.pdf",
+  "status": "downloaded_oa",
+  "detail": 426500,
+  "bytes": 426500
+ },
+ "PROBASTAI": {
+  "paper_id": "PROBASTAI",
+  "doi": "10.1136/bmj-2024-082505",
+  "title": "PROBAST+AI: an updated quality, risk of bias, and applicability assessment tool for prediction models using regression or artificial intelligence methods",
+  "oa_status": "hybrid",
+  "pdf_url": "https://doi.org/10.1136/bmj-2024-082505",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "R001": {
+  "paper_id": "R001",
+  "doi": "10.1530/rep-18-0523",
+  "title": "Artificial intelligence in reproductive medicine",
+  "oa_status": "hybrid",
+  "pdf_url": "https://rep.bioscientifica.com/downloadpdf/journals/rep/158/4/REP-18-0523.pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "R002": {
+  "paper_id": "R002",
+  "doi": "10.1093/humrep/deab168",
+  "title": "Artificial intelligence in the fertility clinic: status, pitfalls and possibilities",
+  "oa_status": "green",
+  "pdf_url": "https://hdl.handle.net/10037/23966",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:3055"
+ },
+ "R003": {
+  "paper_id": "R003",
+  "doi": "10.36922/gtm.0308",
+  "title": "Artificial intelligence algorithms for optimizing assisted reproductive technology programs: A systematic review",
+  "oa_status": "hybrid",
+  "pdf_url": "https://doi.org/10.36922/gtm.0308",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:334518"
+ },
+ "R005": {
+  "paper_id": "R005",
+  "doi": "10.1038/s41746-024-01006-x",
+  "title": "The prospect of artificial intelligence to personalize assisted reproductive technology",
+  "oa_status": "gold",
+  "pdf_url": "https://www.nature.com/articles/s41746-024-01006-x.pdf",
+  "status": "downloaded_oa",
+  "detail": 1869304,
+  "bytes": 1869304
+ },
+ "R006": {
+  "paper_id": "R006",
+  "doi": "10.1016/j.mcpdig.2024.08.007",
+  "title": "Artificial Intelligence, Clinical Decision Support Algorithms, Mathematical Models, Calculators Applications in Infertility: Systematic Review and Hands-On Digital Applications",
+  "oa_status": "gold",
+  "pdf_url": "https://www.mcpdigitalhealth.org/article/S2949-7612(24)00082-8/pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "R007": {
+  "paper_id": "R007",
+  "doi": "10.3390/biology13120988",
+  "title": "Artificial Intelligence in IVF Laboratories: Elevating Outcomes Through Precision and Efficiency",
+  "oa_status": "gold",
+  "pdf_url": "https://www.mdpi.com/2079-7737/13/12/988/pdf?version=1732805978",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "R009": {
+  "paper_id": "R009",
+  "doi": "10.1007/s10815-024-03284-6",
+  "title": "A review of artificial intelligence applications in in vitro fertilization",
+  "oa_status": "green",
+  "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11806189/pdf/10815_2024_Article_3284.pdf",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:1817"
+ },
+ "R010": {
+  "paper_id": "R010",
+  "doi": "10.3389/frph.2025.1520919",
+  "title": "The integration of artificial intelligence in assisted reproduction: a comprehensive review",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.3389/frph.2025.1520919",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:723977"
+ },
+ "R011": {
+  "paper_id": "R011",
+  "doi": "10.1016/j.jogoh.2024.102903",
+  "title": "Artificial intelligence in in-vitro fertilization (IVF): A new era of precision and personalization in fertility treatments",
+  "oa_status": "hybrid",
+  "pdf_url": "https://doi.org/10.1016/j.jogoh.2024.102903",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:2760"
+ },
+ "R012": {
+  "paper_id": "R012",
+  "doi": "10.1016/j.patter.2025.101347",
+  "title": "Current progress and open challenges for applying artificial intelligence across the in vitro fertilization cycle",
+  "oa_status": "gold",
+  "pdf_url": "https://www.cell.com/patterns/pdf/S2666-3899(25)00195-3.pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "R013": {
+  "paper_id": "R013",
+  "doi": "10.3390/biology15010042",
+  "title": "Artificial Intelligence in Routine IVF Practice",
+  "oa_status": "gold",
+  "pdf_url": "https://www.mdpi.com/2079-7737/15/1/42/pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "R014": {
+  "paper_id": "R014",
+  "doi": "10.1038/s44222-026-00454-2",
+  "title": "AI and automation in assisted reproduction",
+  "oa_status": "closed",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "R015": {
+  "paper_id": "R015",
+  "doi": "10.1007/s10815-026-03939-6",
+  "title": "AI-enabled precision reproductive medicine: a comprehensive review of clinical applications, decision frameworks, and evidence-based implementation",
+  "oa_status": "green",
+  "pdf_url": "https://pubmed.ncbi.nlm.nih.gov/42337201/",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:5590"
+ },
+ "R016": {
+  "paper_id": "R016",
+  "doi": "10.1007/s10815-021-02254-6",
+  "title": "Embryo selection with artificial intelligence: how to evaluate and compare methods?",
+  "status": "local_copy",
+  "source": "D:\\KU-Assignment\\IVF\\_Review\\IVF_PRISMA_v1.3\\outputs\\IVF_Review_Detailed_Tables_v1.4\\PRISMA_and_Selected_Literature_v1.5\\Selected_Literature\\Core_Evidence\\C002311_Embryo_selection_with_artificial_intelligence_how_to_evaluate_and_compare_methods.pdf",
+  "bytes": 2351201
+ },
+ "R017": {
+  "paper_id": "R017",
+  "doi": "10.3390/biomedicines10030697",
+  "title": "Reporting on the Value of Artificial Intelligence in Predicting the Optimal Embryo for Transfer: A Systematic Review including Data Synthesis",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.3390/biomedicines10030697",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "R019": {
+  "paper_id": "R019",
+  "doi": "10.1093/hropen/hoad031",
+  "title": "Embryo selection through artificial intelligence versus embryologists: a systematic review",
+  "oa_status": "gold",
+  "pdf_url": "https://academic.oup.com/hropen/article-pdf/2023/3/hoad031/51112668/hoad031.pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "R021": {
+  "paper_id": "R021",
+  "doi": "10.1093/humrep/dead254",
+  "title": "A brief history of artificial intelligence embryo selection: from black-box to glass-box",
+  "oa_status": "hybrid",
+  "pdf_url": "https://academic.oup.com/humrep/article-pdf/39/2/285/56528251/dead254.pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "R022": {
+  "paper_id": "R022",
+  "doi": "10.1007/s10815-023-02973-y",
+  "title": "Artificial intelligence in time-lapse system: advances, applications, and future perspectives in reproductive medicine",
+  "oa_status": "green",
+  "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10894798/pdf/10815_2023_Article_2973.pdf",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:1816"
+ },
+ "R024": {
+  "paper_id": "R024",
+  "doi": "10.1016/j.eclinm.2024.102897",
+  "title": "Non-invasive prediction of human embryonic ploidy using artificial intelligence: a systematic review and meta-analysis",
+  "oa_status": "gold",
+  "pdf_url": "https://www.thelancet.com/pdfs/journals/eclinm/PIIS2589-5370(24)00476-0.pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "R025": {
+  "paper_id": "R025",
+  "doi": "10.3389/frph.2025.1549642",
+  "title": "Deep learning applications for human embryo assessment using time-lapse imaging: scoping review",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.3389/frph.2025.1549642",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:1943314"
+ },
+ "R026": {
+  "paper_id": "R026",
+  "doi": "10.3390/make7020056",
+  "title": "Artificial Intelligence-Empowered Embryo Selection for IVF Applications: A Methodological Review",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.3390/make7020056",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "R027": {
+  "paper_id": "R027",
+  "doi": "10.1186/s40834-025-00400-4",
+  "title": "Predicting pregnancy outcomes in IVF cycles: a systematic review and diagnostic meta- analysis of artificial intelligence in embryo assessment",
+  "oa_status": "gold",
+  "pdf_url": "https://contraceptionmedicine.biomedcentral.com/counter/pdf/10.1186/s40834-025-00400-4",
+  "status": "downloaded_oa",
+  "detail": 3474888,
+  "bytes": 3474888
+ },
+ "R028": {
+  "paper_id": "R028",
+  "doi": "10.1007/s10439-025-03865-1",
+  "title": "Multi-modal Artificial Intelligence of Embryo Grading and Pregnancy Prediction in Assisted Reproductive Technology: A Review",
+  "oa_status": "closed",
+  "pdf_url": null,
+  "status": "unavailable",
+  "detail": "no_pdf_url"
+ },
+ "R029": {
+  "paper_id": "R029",
+  "doi": "10.1186/s43043-026-00334-0",
+  "title": "AI-based live birth prediction in IVF cycles: a systematic review without meta-analysis of model performance and validation",
+  "oa_status": "diamond",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1186/s43043-026-00334-0.pdf",
+  "status": "downloaded_oa",
+  "detail": 2028134,
+  "bytes": 2028134
+ },
+ "R030": {
+  "paper_id": "R030",
+  "doi": "10.3390/biomedicines14051024",
+  "title": "Explainable Artificial Intelligence in Assisted Reproductive Technology: Bridging Prediction and Clinical Judgment",
+  "oa_status": "gold",
+  "pdf_url": "https://www.mdpi.com/2227-9059/14/5/1024/pdf?version=1779189052",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "R031": {
+  "paper_id": "R031",
+  "doi": "10.3390/bioengineering13060688",
+  "title": "Artificial Intelligence in Embryo Selection: Current Approaches and Clinical Implications",
+  "oa_status": "gold",
+  "pdf_url": "https://www.mdpi.com/2306-5354/13/6/688/pdf?version=1781583366",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "R032": {
+  "paper_id": "R032",
+  "doi": "10.1038/s41585-021-00465-1",
+  "title": "Machine learning for sperm selection",
+  "oa_status": "bronze",
+  "pdf_url": "https://utoronto.scholaris.ca/bitstreams/afb5d784-adbe-45c2-99ff-c0040a109969/download",
+  "status": "downloaded_oa",
+  "detail": 956256,
+  "bytes": 956256
+ },
+ "R034": {
+  "paper_id": "R034",
+  "doi": "10.3390/medicina60020279",
+  "title": "Current Updates on Involvement of Artificial Intelligence and Machine Learning in Semen Analysis",
+  "oa_status": "gold",
+  "pdf_url": "https://www.mdpi.com/1648-9144/60/2/279/pdf?version=1707184186",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "R035": {
+  "paper_id": "R035",
+  "doi": "10.1007/s11934-024-01239-z",
+  "title": "Artificial Intelligence for Clinical Management of Male Infertility, a Scoping Review",
+  "oa_status": "hybrid",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1007/s11934-024-01239-z.pdf",
+  "status": "downloaded_oa",
+  "detail": 1909686,
+  "bytes": 1909686
+ },
+ "R036": {
+  "paper_id": "R036",
+  "doi": "10.3390/uro4020003",
+  "title": "The Role of Artificial Intelligence in Male Infertility: Evaluation and Treatment: A Narrative Review",
+  "oa_status": "gold",
+  "pdf_url": "https://www.mdpi.com/2673-4397/4/2/3/pdf?version=1711346932",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "R037": {
+  "paper_id": "R037",
+  "doi": "10.1186/s40001-025-02479-6",
+  "title": "Artificial intelligence (AI) approaches to male infertility in IVF: a mapping review",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.1186/s40001-025-02479-6",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:471365"
+ },
+ "R038": {
+  "paper_id": "R038",
+  "doi": "10.3390/computation13060132",
+  "title": "Revolutionizing Sperm Analysis with AI: A Review of Computer-Aided Sperm Analysis Systems",
+  "oa_status": "gold",
+  "pdf_url": "https://www.mdpi.com/2079-3197/13/6/132/pdf?version=1748876670",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "R039": {
+  "paper_id": "R039",
+  "doi": "10.1186/s43043-026-00322-4",
+  "title": "Artificial intelligence in automated semen analysis: a systematic review of technical performance and clinical validity",
+  "oa_status": "diamond",
+  "pdf_url": "https://link.springer.com/content/pdf/10.1186/s43043-026-00322-4.pdf",
+  "status": "downloaded_oa",
+  "detail": 2543592,
+  "bytes": 2543592
+ },
+ "R041": {
+  "paper_id": "R041",
+  "doi": "10.2196/53396",
+  "title": "Harnessing Artificial Intelligence to Predict Ovarian Stimulation Outcomes in In Vitro Fertilization: Scoping Review",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.2196/53396",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:0"
+ },
+ "R042": {
+  "paper_id": "R042",
+  "doi": "10.1016/j.rbmo.2025.105362",
+  "title": "Can machine learning models predict oocyte yield during assisted conception?: a systematic review",
+  "oa_status": "hybrid",
+  "pdf_url": "https://www.rbmojournal.com/article/S1472-6483(25)00569-3/pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "R044": {
+  "paper_id": "R044",
+  "doi": "10.1002/jum.15827",
+  "title": "Artificial Intelligence in the Assessment of Female Reproductive Function Using Ultrasound: A Review",
+  "oa_status": "hybrid",
+  "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jum.15827",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "R045": {
+  "paper_id": "R045",
+  "doi": "10.3389/fendo.2026.1893963",
+  "title": "From static snapshots to longitudinal trajectories: artificial intelligence in women’s reproductive and ovarian health",
+  "oa_status": "gold",
+  "pdf_url": "https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2026.1893963/pdf",
+  "status": "downloaded_oa",
+  "detail": 829613,
+  "bytes": 829613
+ },
+ "R048": {
+  "paper_id": "R048",
+  "doi": "10.1186/s12958-026-01542-z",
+  "title": "The potential, perils and pitfalls of Artificial intelligence (AI) in Assisted Reproductive Technologies (ART)",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.1186/s12958-026-01542-z",
+  "status": "unavailable",
+  "detail": "not_pdf_or_too_small:515520"
+ },
+ "R049": {
+  "paper_id": "R049",
+  "doi": "10.3389/fendo.2026.1910448",
+  "title": "Implementation readiness of artificial intelligence in in vitro fertilization: a multi-framework appraisal with special reference to advanced reproductive age patients",
+  "oa_status": "gold",
+  "pdf_url": "https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2026.1910448/pdf",
+  "status": "downloaded_oa",
+  "detail": 3250129,
+  "bytes": 3250129
+ },
+ "SPERM02": {
+  "paper_id": "SPERM02",
+  "doi": "10.1038/s42003-019-0491-6",
+  "title": "Deep learning-based selection of human sperm with high DNA integrity",
+  "oa_status": "gold",
+  "pdf_url": "https://www.nature.com/articles/s42003-019-0491-6.pdf",
+  "status": "downloaded_oa",
+  "detail": 3999687,
+  "bytes": 3999687
+ },
+ "SPERM03": {
+  "paper_id": "SPERM03",
+  "doi": "10.1093/hropen/hoaf024",
+  "title": "Automatic identification of human spermatozoa with zona pellucida-binding capability using deep learning",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.1093/hropen/hoaf024",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "SPERM06": {
+  "paper_id": "SPERM06",
+  "doi": "10.1002/aisy.202400141",
+  "title": "Morphology Classification of Live Unstained Human Sperm Using Ensemble Deep Learning",
+  "oa_status": "gold",
+  "pdf_url": "https://doi.org/10.1002/aisy.202400141",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "STIM01": {
+  "paper_id": "STIM01",
+  "doi": "10.1038/s41598-024-69165-1",
+  "title": "Optimizing oocyte yield utilizing a machine learning model for dose and trigger decisions, a multi-center, prospective study",
+  "oa_status": "gold",
+  "pdf_url": "https://www.nature.com/articles/s41598-024-69165-1.pdf",
+  "status": "downloaded_oa",
+  "detail": 1061646,
+  "bytes": 1061646
+ },
+ "STIM02": {
+  "paper_id": "STIM02",
+  "doi": "10.1016/j.rbmo.2022.07.010",
+  "title": "An interpretable machine learning model for individualized gonadotrophin starting dose selection during ovarian stimulation",
+  "oa_status": "hybrid",
+  "pdf_url": "https://www.rbmojournal.com/article/S1472-6483(22)00498-9/pdf",
+  "status": "unavailable",
+  "detail": "http_403"
+ },
+ "STIM04": {
+  "paper_id": "STIM04",
+  "doi": "10.1016/j.rbmo.2024.104441",
+  "title": "Machine learning tool for predicting mature oocyte yield and trigger day from start of stimulation: towards personalized treatment",
+  "oa_status": "green",
+  "pdf_url": "https://hdl.handle.net/10550/108495",
+  "status": "unavailable",
+  "detail": "err:<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+ },
+ "STIM05": {
+  "paper_id": "STIM05",
+  "doi": "10.1038/s41467-024-55301-y",
+  "title": "Explainable artificial intelligence to identify follicles that optimize clinical outcomes during assisted conception",
+  "oa_status": "gold",
+  "pdf_url": "https://www.nature.com/articles/s41467-024-55301-y.pdf",
+  "status": "downloaded_oa",
+  "detail": 1168937,
+  "bytes": 1168937
+ },
+ "STIM06": {
+  "paper_id": "STIM06",
+  "doi": "10.1186/s12967-025-06562-8",
+  "title": "Deep learning-based prediction of individualized Real-time FSH doses in GnRH agonist long protocols",
+  "oa_status": "gold",
+  "pdf_url": "https://translational-medicine.biomedcentral.com/counter/pdf/10.1186/s12967-025-06562-8",
+  "status": "downloaded_oa",
+  "detail": 1333418,
+  "bytes": 1333418
+ }
+}

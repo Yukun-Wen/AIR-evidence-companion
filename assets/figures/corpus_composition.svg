@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-10-07T23:25:23.957386</dc:date>
+    <dc:date>2026-10-08T18:42:57.542699</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -42,7 +42,7 @@ C 110.537029 137.574422 107.625082 124.896014 109.302344 112.411663
 C 110.979606 99.927312 117.134565 88.467035 126.616123 80.17413 
 C 136.097681 71.881224 148.27546 67.30704 160.871977 67.30704 
 z
-" style="fill: #1a4a6b; stroke: #ffffff; stroke-linejoin: miter"/>
+" style="fill: #5b7d95; stroke: #ffffff; stroke-linejoin: miter"/>
    </g>
    <g id="patch_3">
     <path d="M 137.193895 205.870869 
@@ -52,7 +52,7 @@ L 162.856917 171.335086
 C 160.210332 171.436121 157.559891 171.334939 154.928712 171.032422 
 C 152.297533 170.729906 149.693287 170.226938 147.138689 169.527904 
 z
-" style="fill: #c05621; stroke: #ffffff; stroke-linejoin: miter"/>
+" style="fill: #c08a5f; stroke: #ffffff; stroke-linejoin: miter"/>
    </g>
    <g id="patch_4">
     <path d="M 164.294287 208.9867 
@@ -66,7 +66,7 @@ C 207.036635 91.738508 212.635575 104.72672 212.895467 118.34735
 C 213.15536 131.967979 208.055967 145.160324 198.702555 155.065009 
 C 189.349144 164.969694 176.470109 170.815395 162.856917 171.335086 
 z
-" style="fill: #584a8a; stroke: #ffffff; stroke-linejoin: miter"/>
+" style="fill: #8b7fa3; stroke: #ffffff; stroke-linejoin: miter"/>
    </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2"/>
@@ -600,7 +600,7 @@ z
    </g>
    <g id="text_7">
     <!-- 247 -->
-    <g style="fill: #1a4a6b" transform="translate(147.304242 114.915176) scale(0.13 -0.13)">
+    <g style="fill: #2e3735" transform="translate(147.304242 114.915176) scale(0.13 -0.13)">
      <defs>
       <path id="DejaVuSans-Bold-15" d="M 1844 884 
 L 3897 884 
@@ -659,7 +659,7 @@ z
      <use xlink:href="#DejaVuSans-Bold-1a" transform="translate(139.15625 0)"/>
     </g>
     <!-- works -->
-    <g style="fill: #1a4a6b" transform="translate(139.004555 130.51873) scale(0.13 -0.13)">
+    <g style="fill: #2e3735" transform="translate(139.004555 130.51873) scale(0.13 -0.13)">
      <defs>
       <path id="DejaVuSans-Bold-5a" d="M 225 3500 
 L 1313 3500 
