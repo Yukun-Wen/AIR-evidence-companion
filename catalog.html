@@ -1,14 +1,16 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Evidence catalog</title><link rel="stylesheet" href="assets/style.css"><script src="data/papers.js"></script><script src="assets/js/app.js"></script></head><body data-root=""><header class="site"><h1>AI for IVF &middot; Evidence Companion</h1><p>Interactive evidence library for the manuscript <i>Artificial intelligence for in vitro fertilization</i> (Artificial Intelligence Review submission). Every cited work is mapped to the manuscript sections it supports, with highlighted manuscript claims, extracted fields, and source locators.</p></header><nav class="crumbs"><a href="index.html">Home</a> &rsaquo; Catalog</nav><main><h2>Evidence catalog — 247 cited works</h2>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Evidence catalog</title><link rel="stylesheet" href="assets/style.css"><script src="data/papers.js"></script><script src="assets/js/app.js"></script></head><body data-root=""><header class="site"><h1>AI for IVF &middot; Evidence Companion</h1><p>Interactive evidence library for the manuscript <i>Artificial intelligence for in vitro fertilization</i> (Artificial Intelligence Review submission). Every cited work is mapped to the manuscript sections it supports, with highlighted manuscript claims, extracted fields, and source locators.</p></header><nav class="topnav"><a class="" href="index.html">Overview</a><a class="" href="az.html">Index</a><a class="on" href="catalog.html">Catalog</a><a class="" href="claims.html">Claims</a><a class="" href="contrasts.html">Contrasts</a><a class="" href="sections.html">Chapters</a><a class="" href="atlas.html">Atlas</a><a class="" href="methods.html">Methods</a></nav><nav class="crumbs"><a href="index.html">Home</a> &rsaquo; Catalog</nav><main><h2>Evidence catalog — 247 cited works</h2>
 <div class="filters">
-<input type="search" id="q" placeholder="Search title, author, ID, venue, DOI…" oninput="render()">
+<input type="search" id="q" placeholder="Search title, author, ID, venue, DOI (press /)" oninput="render()">
 <select id="fRole" onchange="render()"><option value="">Core + Contextual</option><option value="core">Core only</option><option value="contextual">Contextual only</option></select>
 <select id="fSec" onchange="render()"><option value="">All sections</option></select>
 <select id="fWf" onchange="render()"><option value="">All workflow groups</option></select>
 <select id="fPdf" onchange="render()"><option value="">PDF: any</option><option value="1">mirrored</option><option value="0">DOI only</option></select>
 <select id="fCtr" onchange="render()"><option value="">Any</option><option value="1">contrast papers</option></select>
+<button class="bib" style="padding:5px 10px" onclick="resetF()">Reset</button>
+<button class="bib" style="padding:5px 10px" onclick="copyAllBib(this)" title="Copy BibTeX for all listed works">Copy BibTeX of listed</button>
 </div>
 <p class="small" id="cnt"></p>
-<table class="data" id="tbl"><thead><tr><th onclick="sortBy('id')">ID</th><th onclick="sortBy('title')">Title</th><th onclick="sortBy('authors_short')">Authors</th><th onclick="sortBy('year')">Year</th><th onclick="sortBy('venue')">Venue</th><th>Cited in</th><th>Workflow</th><th>Tags</th><th></th></tr></thead><tbody></tbody></table>
+<table class="data" id="tbl"><thead><tr><th data-k="id" data-label="ID" onclick="sortBy('id')">ID</th><th data-k="title" data-label="Title" onclick="sortBy('title')">Title</th><th data-k="authors_short" data-label="Authors" onclick="sortBy('authors_short')">Authors</th><th data-k="year" data-label="Year" onclick="sortBy('year')">Year</th><th data-k="venue" data-label="Venue" onclick="sortBy('venue')">Venue</th><th>Cited in</th><th>Workflow</th><th>Tags</th><th></th></tr></thead><tbody></tbody></table>
 <script>
 var P=window.PAPERS||[];
 (function(){
@@ -19,6 +21,9 @@ var P=window.PAPERS||[];
  P.forEach(function(p){if(p.workflow)w[p.workflow]=1});
  Object.keys(w).forEach(function(t){var o=document.createElement('option');o.value=t;o.textContent=t;wf.appendChild(o)});
 })();
+function resetF(){['q','fRole','fSec','fWf','fPdf','fCtr'].forEach(function(i){document.getElementById(i).value=''});render()}
+function copyAllBib(e){var rs=window.__rows||[];var t=rs.map(bibtex).join(String.fromCharCode(10)+String.fromCharCode(10));if(navigator.clipboard)navigator.clipboard.writeText(t);e.textContent='copied '+rs.length+' entries';setTimeout(function(){e.textContent='Copy BibTeX of listed'},1400)}
+document.addEventListener('keydown',function(e){if(e.key=='/'&&document.activeElement.tagName!='INPUT'){e.preventDefault();document.getElementById('q').focus()}});
 function render(){
  (function(){var u=new URLSearchParams(location.search);if(u.get('sec'))document.getElementById('fSec').value=u.get('sec');if(u.get('wf'))document.getElementById('fWf').value=u.get('wf')})();
 var q=document.getElementById('q').value.toLowerCase();
@@ -36,8 +41,9 @@ var q=document.getElementById('q').value.toLowerCase();
    if(q){var hay=(p.id+' '+p.title+' '+p.authors_short+' '+p.venue+' '+p.doi).toLowerCase(); if(hay.indexOf(q)<0) return false;}
    return true;
  });
- document.getElementById('cnt').textContent=rows.length+' / '+P.length+' shown';
+ window.__rows=rows; document.getElementById('cnt').textContent=rows.length+' / '+P.length+' shown';
  document.querySelector('#tbl tbody').innerHTML=rows.map(rowHtml).join('');
+ document.querySelectorAll('#tbl th').forEach(function(th){var k=th.getAttribute('data-k');th.innerHTML=(th.dataset.label||th.textContent.replace(/[ ▲▼]/g,''))+((SORT&&SORT.key&&SORT.key==k)?(SORT.asc?' ▲':' ▼'):'')});
 }
 render();
-</script></main><footer>Generated 2026-10-08 &middot; Evidence compiled by automated extraction; human verification pending &middot; PDFs mirrored only where locally held or openly licensed; otherwise DOI links.</footer></body></html>
+</script></main><footer>Generated 2026-10-10 &middot; Evidence compiled by automated extraction; human verification pending &middot; PDFs mirrored only where locally held or openly licensed; otherwise DOI links.</footer></body></html>

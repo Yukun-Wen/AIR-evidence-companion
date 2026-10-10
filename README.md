@@ -22,14 +22,16 @@ site that also works when opened offline (`index.html`).
 2. **Browse by chapter** — `sections.html` groups all cited works by the
    manuscript section that first cites them.
 3. **Search & filter** — `catalog.html` is a sortable, searchable table of
-   all 247 works (click a column header to sort; filter by role / section /
+   all 247 works — click a column header to sort (arrows show direction), press `/` to focus search; filter by role / section /
    workflow / PDF availability / contrast participation).
-4. **Interactive explorer** — on `atlas.html`, hover a stacked section bar
+4. **Methods page** — `methods.html` documents the construction pipeline, record schema, evidence layers and verification status.
+5. **Interactive explorer** — on `atlas.html`, hover a stacked section bar
    for counts and click a segment to open the pre-filtered catalog.
-5. **Evidence cards** — each paper's `card.html` shows the highlighted
-   manuscript passage it supports, its extracted fields, and a **BibTeX**
-   button that copies the citation to the clipboard.
-6. **Highlighted PDFs** — for the 58 core reports with mirrored full text, the
+6. **Evidence cards** — each paper's `card.html` shows the highlighted
+   manuscript passage it supports, its extracted fields, a **BibTeX** copy
+   button and a **DOI** link. In the catalog, "Copy BibTeX of listed" copies
+   the BibTeX for every currently-filtered row.
+7. **Highlighted PDFs** — for the 58 core reports with mirrored full text, the
    *Highlighted-evidence PDF* button opens the source PDF with the supporting
    sentences already marked in yellow.
 
@@ -44,6 +46,7 @@ site that also works when opened offline (`index.html`).
 | `contrasts.html` | 20 conditional within-report comparisons + delta chart |
 | `sections.html` | Chapter index — papers filed by first-cited manuscript section |
 | `atlas.html` | Charts, manuscript figures, and the interactive explorer |
+| `methods.html` | Construction pipeline, record schema, evidence layers, verification |
 
 ## Repository layout
 
@@ -93,12 +96,3 @@ are represented by their DOI link — no licensed PDFs are redistributed. The
 acquisition log `_build/pdf_acquisition_log.json` records status + OA flag per
 paper. See `NOTICE.md`.
 
-## 中文说明
-
-本文件夹是配合 AIR 投稿的"证据导航站"。`index.html` 为入口（可离线双击打开）。
-所有被引文献按正文章节归入 `papers/01_* … 10_*`；每篇一个子目录，含
-`README.md` 证据卡（高亮支持内容）、`card.html` 交互页与（如可获得）PDF。
-高亮含义：黄色=正文引用该文的句子（即其支持的论点）；橙色=抽取的证据字段；
-蓝色芯片=原文块定位码（带 sha256）。构建脚本在 `_build/`，重新生成运行
-`python _build/build_site.py`。在线版见
-https://yukun-wen.github.io/AIR-evidence-companion/
