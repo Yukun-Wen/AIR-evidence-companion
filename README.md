@@ -1,98 +1,105 @@
 # AI for IVF — Evidence Companion
 
+> An interactive, reviewer-facing evidence library for the AIR manuscript *Artificial
+> intelligence for in vitro fertilization* — every cited work is mapped to the
+> section it supports, with highlighted claims, extracted fields, and source-linked PDFs.
+
+**🔗 Live site → https://yukun-wen.github.io/AIR-evidence-companion/**
+
 [![Site](https://img.shields.io/badge/site-live-5b7d95)](https://yukun-wen.github.io/AIR-evidence-companion/)
 [![Works](https://img.shields.io/badge/cited%20works-247-7a8b6f)](https://yukun-wen.github.io/AIR-evidence-companion/catalog.html)
 [![PDFs](https://img.shields.io/badge/mirrored%20PDFs-91-c08a5f)](https://yukun-wen.github.io/AIR-evidence-companion/atlas.html)
 
-**Live site:** https://yukun-wen.github.io/AIR-evidence-companion/
+---
 
-An interactive, reviewer-facing evidence library for the AIR manuscript submission
-*Artificial intelligence for in vitro fertilization*. Every one of the **247 cited
-works** is mapped to the manuscript section(s) it supports, with highlighted
-manuscript claims, machine-extracted evidence fields, archived source locators,
-and — where a local or open-access PDF exists — a **highlighted PDF** marking the
-passages that support the manuscript's argument.
+## ⚡ 30-second overview
 
-No build step or JavaScript framework is required: this is a static HTML/CSS/JS
-site that also works when opened offline (`index.html`).
-
-## For reviewers — how to navigate
-
-1. **Start at the landing page** — corpus stats, section links, key figures.
-2. **Browse by chapter** — `sections.html` groups all cited works by the
-   manuscript section that first cites them.
-3. **Search & filter** — `catalog.html` is a sortable, searchable table of
-   all 247 works — click a column header to sort (arrows show direction), press `/` to focus search; filter by role / section /
-   workflow / PDF availability / contrast participation).
-4. **Methods page** — `methods.html` documents the construction pipeline, record schema, evidence layers and verification status.
-5. **Interactive explorer** — on `atlas.html`, hover a stacked section bar
-   for counts and click a segment to open the pre-filtered catalog.
-6. **Evidence cards** — each paper's `card.html` shows the highlighted
-   manuscript passage it supports, its extracted fields, a **BibTeX** copy
-   button and a **DOI** link. In the catalog, "Copy BibTeX of listed" copies
-   the BibTeX for every currently-filtered row.
-7. **Highlighted PDFs** — for the 58 core reports with mirrored full text, the
-   *Highlighted-evidence PDF* button opens the source PDF with the supporting
-   sentences already marked in yellow.
-
-## Pages
-
-| Page | Purpose |
+| | |
 |---|---|
-| `index.html` | Landing: corpus stats, section links, key figures |
-| `az.html` | Master index — works by section, workflow group, author initial, year |
-| `catalog.html` | Searchable / sortable / filterable table of all cited works |
-| `claims.html` | Manuscript claim passages → citing papers (highlighted) |
-| `contrasts.html` | 20 conditional within-report comparisons + delta chart |
-| `sections.html` | Chapter index — papers filed by first-cited manuscript section |
-| `atlas.html` | Charts, manuscript figures, and the interactive explorer |
-| `methods.html` | Construction pipeline, record schema, evidence layers, verification |
+| **What** | Evidence companion for a review manuscript — 247 cited works, organized by section |
+| **Why** | Lets a reviewer trace *every citation* back to its supporting claim, fields, and source |
+| **How** | Static site (HTML/CSS/JS) — no build step, works offline from `index.html` |
+| **Contents** | Searchable catalog · evidence cards · highlighted PDFs · charts · methods |
 
-## Repository layout
+---
+
+## 🗺️ Quick navigation
+
+| I want to… | Go to |
+|---|---|
+| See the big picture | [`index.html`](https://yukun-wen.github.io/AIR-evidence-companion/) |
+| Find a specific paper | [`catalog.html`](https://yukun-wen.github.io/AIR-evidence-companion/catalog.html) |
+| Read what a claim cites | [`claims.html`](https://yukun-wen.github.io/AIR-evidence-companion/claims.html) |
+| Compare two configurations | [`contrasts.html`](https://yukun-wen.github.io/AIR-evidence-companion/contrasts.html) |
+| Browse by chapter | [`sections.html`](https://yukun-wen.github.io/AIR-evidence-companion/sections.html) |
+| See charts & figures | [`atlas.html`](https://yukun-wen.github.io/AIR-evidence-companion/atlas.html) |
+| Check provenance / rebuild | [`methods.html`](https://yukun-wen.github.io/AIR-evidence-companion/methods.html) |
+| Alphabetical / year index | [`az.html`](https://yukun-wen.github.io/AIR-evidence-companion/az.html) |
+
+---
+
+## 🧭 For reviewers
+
+1. **Start** at the landing page — corpus stats and key figures.
+2. **Catalog** — sortable, searchable table of all 247 works (`/` focuses search, headers sort).
+3. **Evidence cards** — each paper's `card.html` shows the highlighted claim it supports,
+   extracted fields, a **BibTeX** copy button, and a **DOI** link.
+4. **Highlighted PDFs** — for mirrored core reports, *Highlighted-evidence PDF* opens the
+   source with the supporting sentences already marked.
+5. **Atlas** — hover a stacked bar for counts; click to open the pre-filtered catalog.
+
+---
+
+## 🔍 Highlighting legend
+
+| Cue | Meaning |
+|---|---|
+| 🟨 Yellow `<mark>` | Manuscript passage citing the work — the claim it supports |
+| 🟧 Orange `mark.field` | Machine-extracted evidence field (task, method, split, validation…) |
+| 🔵 `<ID>-Bxxxx` chip | Block locator into the archived source text (sha256-pinned) |
+| 📄 Highlighted-PDF button | Source PDF with supporting sentences marked |
+
+*Excerpts are AI paraphrases of source content; all machine-derived fields are*
+`*human verification pending`*.
+
+---
+
+## 📂 Repository layout
 
 | Path | Content |
 |---|---|
-| `papers/<section>/<ID>/` | Per-paper folder: `README.md` evidence card, `card.html`, `<ID>.pdf`, `<ID>_highlighted.pdf` when present |
+| `papers/<section>/<ID>/` | `README.md` evidence card · `card.html` · `<ID>.pdf` · `<ID>_highlighted.pdf` |
 | `data/papers.js` / `.json` | Machine-readable record for every cited work |
-| `assets/` | Stylesheet, `js/app.js`, generated SVG charts, manuscript figure PNGs |
-| `_build/` | `build_site.py` generator, `highlight_pdfs.py`, acquisition/highlight logs |
+| `assets/` | Stylesheet · `js/app.js` · generated SVG charts · manuscript figure PNGs |
+| `_build/` | `build_site.py` generator · `highlight_pdfs.py` · acquisition/highlight logs |
 
-## Highlighting conventions
+---
 
-| Visual cue | Meaning |
-|---|---|
-| Yellow `<mark>` | Manuscript passage citing the work — the claim it supports |
-| Orange `mark.field` | Machine-extracted evidence field (task, inputs, method, outcome, split, validation…) |
-| Blue chip `<ID>-Bxxxx` | Block locator into the archived full-text reader (sha256-pinned) |
-| "Highlighted-evidence PDF" button | Source PDF with supporting sentences marked |
-
-Excerpt blocks are AI paraphrases of source content, each tagged with its locator.
-All machine-extracted fields are flagged *human verification pending*.
-
-## Rebuilding the site
+## 🛠️ Rebuild
 
 ```bash
-# requires Python 3.10+ with matplotlib + PyMuPDF
+# Python 3.10+ · matplotlib · PyMuPDF
 python _build/build_site.py      # regenerate pages, cards, charts, QA
 python _build/highlight_pdfs.py  # annotate mirrored PDFs with highlight marks
 ```
 
-The generator is idempotent and ends with a dead-link QA pass
-(`_build/build_report.json`).
+Idempotent; ends with a dead-link QA pass (`_build/build_report.json`).
 
-## Deploying to GitHub Pages
+---
+
+## 📜 PDF & licensing
+
+PDFs are mirrored **only** where a local copy existed or an open-access version was
+retrievable (OpenAlex / Unpaywall / Europe PMC). Paywalled works are represented by
+their DOI link — no licensed PDFs are redistributed.
+See [`NOTICE.md`](NOTICE.md) and `_build/pdf_acquisition_log.json`.
+
+---
+
+## 🚢 Deploy
 
 ```bash
 git init -b main && git add -A && git commit -m "evidence companion"
 gh repo create AIR-evidence-companion --public --source . --push
 # Settings → Pages → Deploy from a branch → main / (root)
 ```
-
-## PDF & licensing policy
-
-PDFs are mirrored **only** where a local copy already existed or an open-access
-PDF was retrievable (OpenAlex / Unpaywall / Europe PMC). Works behind paywalls
-are represented by their DOI link — no licensed PDFs are redistributed. The
-acquisition log `_build/pdf_acquisition_log.json` records status + OA flag per
-paper. See `NOTICE.md`.
-
