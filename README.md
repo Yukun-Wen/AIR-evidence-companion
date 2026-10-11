@@ -119,6 +119,127 @@ python _build/highlight_pdfs.py  # PDF highlight annotation
 Each run ends with a dead-link QA pass (`_build/build_report.json`);
 acquisition and highlight logs are kept under `_build/` for audit.
 
+### Benchmarks
+
+**Most-used datasets** (verified use counts)
+
+| Resource | Reports | Dataset ID |
+|---|---|---|
+| HFEA registry | 4 | HFEA |
+| PCRM/SFU HMC | 3 | HMC_PCRM_SFU |
+| HuSHeM | 3 | HuSHeM |
+| Nantes/Gomez 704 | 3 | NANTES_GOMEZ704 |
+| VISEM | 3 | VISEM |
+| Kromp blastocysts | 2 | KROMP2344 |
+| Monash live sperm | 2 | MONASH_LIVE_SPERM_25621500 |
+| Oocytor (human) | 2 | OOCYTOR_HUMAN |
+| SMIDS | 2 | SMIDS |
+| CleavageEmbryo | 1 | CLEAVAGE1548 |
+
+**Common evaluation metrics** (distinct reports reporting each)
+
+| Metric | Reports |
+|---|---|
+| AUROC | 4 |
+| Precision | 4 |
+| Recall | 4 |
+| Accuracy | 3 |
+| F1 | 3 |
+| Accuracy % | 3 |
+| Dice | 2 |
+| Mean Jaccard | 2 |
+| Mean Dice | 2 |
+| mAP@0.5 | 2 |
+| Precision* | 1 |
+| Recall* | 1 |
+
+**Leading configurations — top-5 datasets** (within-report rank; metric in heading)
+
+<details><summary><b>Hi-LabSpermMorpho</b> — 18-class sperm morphology classification · Accuracy %</summary>
+
+| # | Model | Accuracy % | Report |
+|---|---|---|---|
+| 1 | Soft voting: EfficientNetV2-S + V2-M + V2-L | 67.7 | EC078 |
+| 2 | V2-S + V2-M + V2-L originalfeatures / SVM+MLP-A+RF | 67.36 | EC078 |
+| 3 | V2-S + V2-M + V2-L originalfeatures / SVM+RF | 67.22 | EC078 |
+| 4 | V2-S + V2-M + V2-L originalfeatures / MLP-A+RF | 67.0 | EC078 |
+| 5 | Soft voting: EfficientNetV2-S + EfficientNetV2-M | 66.86 | EC078 |
+| 6 | EfficientNetV2-S + V2-M + V2-L originalfeatures / RF | 66.64 | EC078 |
+| 7 | Soft voting: EfficientNetV2-M + EfficientNetV2-L | 66.59 | EC078 |
+| 8 | Soft voting: EfficientNetV2-S + EfficientNetV2-L | 66.42 | EC078 |
+| 9 | V2-S + V2-M + V2-L originalfeatures / SVM+MLP-A | 66.31 | EC078 |
+| 10 | EfficientNetV2-S + V2-M + V2-L reducedfeatures / MLP-A | 66.16 | EC078 |
+
+</details>
+
+<details><summary><b>HFEA registry</b> — binary live-birth occurrence · Accuracy</summary>
+
+| # | Model | Accuracy | Report |
+|---|---|---|---|
+| — | PSO + TabTransformer | 0.97 | EC063 |
+| — | PSO + Transformer | 0.963 | EC063 |
+| — | PCA + TabTransformer | 0.941 | EC063 |
+| — | PCA + Transformer | 0.925 | EC063 |
+| — | PSO + RF | 0.905 | EC063 |
+| — | PCA + RF | 0.902 | EC063 |
+| — | PCA + decision tree | 0.898 | EC063 |
+| — | PSO + decision tree | 0.889 | EC063 |
+
+</details>
+
+<details><summary><b>CleavageEmbryo</b> — blastomere instance segmentation · mAP</summary>
+
+| # | Model | mAP | Report |
+|---|---|---|---|
+| 1 | SAM dual branch + YOLOv8 | 0.874 | EE024 |
+| 2 | SOLOv2 | 0.764 | EE024 |
+| 3 | RTMDet | 0.756 | EE024 |
+| 4 | DONet | 0.75 | EE024 |
+| 5 | Cascade MaskRCNN | 0.745 | EE024 |
+| 6 | GAInS | 0.723 | EE024 |
+| 7 | Mask2Former | 0.708 | EE024 |
+| 8 | Mask Scoring RCNN | 0.672 | EE024 |
+| 9 | YOLACT | 0.643 | EE024 |
+| 10 | SAM auto | 0.002 | EE024 |
+
+</details>
+
+<details><summary><b>HuSHeM</b> — four-class morphology · Accuracy %</summary>
+
+| # | Model | Accuracy % | Report |
+|---|---|---|---|
+| 1 | BEiT-B | 93.52 | EQS01 |
+| 2 | Swin-V2-L | 90.9 | EQS01 |
+| 3 | Swin-V2-T | 90.83 | EQS01 |
+| 4 | Eff-V2-S | 90.43 | EQS01 |
+| 5 | Eff-V2-L | 89.99 | EQS01 |
+| 6 | Custom CNN + BEiT-B | 89.97 | EQS01 |
+| 7 | Eff-V2-S + BEiT-B | 89.56 | EQS01 |
+| 8 | Eff-V2-S + Swin-V2-L | 88.59 | EQS01 |
+| 9 | CoAtNet-1 | 88.55 | EQS01 |
+| 10 | CoAtNet-0 | 86.79 | EQS01 |
+
+</details>
+
+<details><summary><b>SMIDS</b> — three-class morphology/non-sperm · Accuracy %</summary>
+
+| # | Model | Accuracy % | Report |
+|---|---|---|---|
+| 1 | BEiT-B | 92.5 | EQS01 |
+| 2 | Swin-V2-L | 91.67 | EQS01 |
+| 3 | Custom CNN + BEiT-B | 91.57 | EQS01 |
+| 4 | Eff-V2-S + Swin-V2-L | 91.17 | EQS01 |
+| 5 | Eff-V2-S | 91.13 | EQS01 |
+| 5 | Swin-V2-T | 91.13 | EQS01 |
+| 7 | CoAtNet-1 | 91.07 | EQS01 |
+| 7 | Eff-V2-L | 91.07 | EQS01 |
+| 9 | CoAtNet-0 | 90.73 | EQS01 |
+| 10 | Eff-V2-S + BEiT-B | 90.67 | EQS01 |
+
+</details>
+
+> Ranks are within a single report and protocol — not a global leaderboard.
+
 ## 5. Data availability & licensing
 
 Full texts are mirrored only where a local copy already existed or an
