@@ -118,18 +118,18 @@ acquisition and highlight logs are kept under `_build/` for audit.
 
 **Most-used datasets** (verified use counts)
 
-| Resource | Reports | Dataset ID |
-|---|---|---|
-| HFEA registry | 4 | HFEA |
-| PCRM/SFU HMC | 3 | HMC_PCRM_SFU |
-| HuSHeM | 3 | HuSHeM |
-| Nantes/Gomez 704 | 3 | NANTES_GOMEZ704 |
-| VISEM | 3 | VISEM |
-| Kromp blastocysts | 2 | KROMP2344 |
-| Monash live sperm | 2 | MONASH_LIVE_SPERM_25621500 |
-| Oocytor (human) | 2 | OOCYTOR_HUMAN |
-| SMIDS | 2 | SMIDS |
-| CleavageEmbryo | 1 | CLEAVAGE1548 |
+| Resource | Open access | Reports | References |
+|---|---|---|---|
+| HFEA registry | [On request](https://www.hfea.gov.uk/about-us/data-research/) | 4 | [OUTCOME01](https://yukun-wen.github.io/AIR-evidence-companion/papers/04_data_reference_standards_and_the_structure_of_evidence/OUTCOME01/card.html), [EC063](https://yukun-wen.github.io/AIR-evidence-companion/papers/04_data_reference_standards_and_the_structure_of_evidence/EC063/card.html), [ER037](https://yukun-wen.github.io/AIR-evidence-companion/papers/03_computational_foundations_of_the_ivf_workflow/ER037/card.html), [ER039](https://yukun-wen.github.io/AIR-evidence-companion/papers/03_computational_foundations_of_the_ivf_workflow/ER039/card.html) |
+| PCRM/SFU HMC | [On request](https://doi.org/10.1109/TBME.2017.2759665) | 3 | [EE006](https://yukun-wen.github.io/AIR-evidence-companion/papers/04_data_reference_standards_and_the_structure_of_evidence/EE006/card.html), [EE019](https://yukun-wen.github.io/AIR-evidence-companion/papers/04_data_reference_standards_and_the_structure_of_evidence/EE019/card.html), [EQF01](https://yukun-wen.github.io/AIR-evidence-companion/papers/03_computational_foundations_of_the_ivf_workflow/EQF01/card.html) |
+| HuSHeM | [Open](https://doi.org/10.17632/tt3yj2pf38.1) | 3 | [EC080](https://yukun-wen.github.io/AIR-evidence-companion/papers/04_data_reference_standards_and_the_structure_of_evidence/EC080/card.html), [EC082](https://yukun-wen.github.io/AIR-evidence-companion/papers/04_data_reference_standards_and_the_structure_of_evidence/EC082/card.html), [EQS01](https://yukun-wen.github.io/AIR-evidence-companion/papers/04_data_reference_standards_and_the_structure_of_evidence/EQS01/card.html) |
+| Nantes/Gomez 704 | [Open](https://doi.org/10.5281/zenodo.6390798) | 3 | [EE015](https://yukun-wen.github.io/AIR-evidence-companion/papers/04_data_reference_standards_and_the_structure_of_evidence/EE015/card.html), [EE017](https://yukun-wen.github.io/AIR-evidence-companion/papers/04_data_reference_standards_and_the_structure_of_evidence/EE017/card.html), [EQF01](https://yukun-wen.github.io/AIR-evidence-companion/papers/03_computational_foundations_of_the_ivf_workflow/EQF01/card.html) |
+| VISEM | [Open](https://doi.org/10.5281/zenodo.2640506) | 3 | [EC077](https://yukun-wen.github.io/AIR-evidence-companion/papers/04_data_reference_standards_and_the_structure_of_evidence/EC077/card.html), [EC081](https://yukun-wen.github.io/AIR-evidence-companion/papers/04_data_reference_standards_and_the_structure_of_evidence/EC081/card.html), [ER046](https://yukun-wen.github.io/AIR-evidence-companion/papers/04_data_reference_standards_and_the_structure_of_evidence/ER046/card.html) |
+| Kromp blastocysts | [Open](https://doi.org/10.6084/m9.figshare.20123153.v3) | 2 | [EE046](https://yukun-wen.github.io/AIR-evidence-companion/papers/04_data_reference_standards_and_the_structure_of_evidence/EE046/card.html), [EQF01](https://yukun-wen.github.io/AIR-evidence-companion/papers/03_computational_foundations_of_the_ivf_workflow/EQF01/card.html) |
+| Monash live sperm | [Open](https://doi.org/10.26180/25621500.v1) | 2 | [SPERM06](https://yukun-wen.github.io/AIR-evidence-companion/papers/04_data_reference_standards_and_the_structure_of_evidence/SPERM06/card.html), [EC079](https://yukun-wen.github.io/AIR-evidence-companion/papers/04_data_reference_standards_and_the_structure_of_evidence/EC079/card.html) |
+| Oocytor (human) | [Open](https://doi.org/10.5281/zenodo.6502830) | 2 | [ER044](https://yukun-wen.github.io/AIR-evidence-companion/papers/04_data_reference_standards_and_the_structure_of_evidence/ER044/card.html), [OOCYTE02](https://yukun-wen.github.io/AIR-evidence-companion/papers/03_computational_foundations_of_the_ivf_workflow/OOCYTE02/card.html) |
+| SMIDS | [Open](https://doi.org/10.17632/6xvdhc9fyb.1) | 2 | [EC080](https://yukun-wen.github.io/AIR-evidence-companion/papers/04_data_reference_standards_and_the_structure_of_evidence/EC080/card.html), [EQS01](https://yukun-wen.github.io/AIR-evidence-companion/papers/04_data_reference_standards_and_the_structure_of_evidence/EQS01/card.html) |
+| CleavageEmbryo | [On request](https://zenodo.org/records/12602738) | 1 | [EE024](https://yukun-wen.github.io/AIR-evidence-companion/papers/04_data_reference_standards_and_the_structure_of_evidence/EE024/card.html) |
 
 **Common evaluation metrics** (distinct reports reporting each)
 
@@ -154,16 +154,16 @@ acquisition and highlight logs are kept under `_build/` for audit.
 
 | # | Model | Accuracy % | Report |
 |---|---|---|---|
-| 1 | Soft voting: EfficientNetV2-S + V2-M + V2-L | 67.7 | EC078 |
-| 2 | V2-S + V2-M + V2-L originalfeatures / SVM+MLP-A+RF | 67.36 | EC078 |
-| 3 | V2-S + V2-M + V2-L originalfeatures / SVM+RF | 67.22 | EC078 |
-| 4 | V2-S + V2-M + V2-L originalfeatures / MLP-A+RF | 67.0 | EC078 |
-| 5 | Soft voting: EfficientNetV2-S + EfficientNetV2-M | 66.86 | EC078 |
-| 6 | EfficientNetV2-S + V2-M + V2-L originalfeatures / RF | 66.64 | EC078 |
-| 7 | Soft voting: EfficientNetV2-M + EfficientNetV2-L | 66.59 | EC078 |
-| 8 | Soft voting: EfficientNetV2-S + EfficientNetV2-L | 66.42 | EC078 |
-| 9 | V2-S + V2-M + V2-L originalfeatures / SVM+MLP-A | 66.31 | EC078 |
-| 10 | EfficientNetV2-S + V2-M + V2-L reducedfeatures / MLP-A | 66.16 | EC078 |
+| 1 | Soft voting: EfficientNetV2-S + V2-M + V2-L | 67.7 | [EfficientNetV2](https://github.com/google/automl/tree/master/efficientnetv2) | EC078 |
+| 2 | V2-S + V2-M + V2-L originalfeatures / SVM+MLP-A+RF | 67.36 | — | EC078 |
+| 3 | V2-S + V2-M + V2-L originalfeatures / SVM+RF | 67.22 | — | EC078 |
+| 4 | V2-S + V2-M + V2-L originalfeatures / MLP-A+RF | 67.0 | — | EC078 |
+| 5 | Soft voting: EfficientNetV2-S + EfficientNetV2-M | 66.86 | [EfficientNetV2](https://github.com/google/automl/tree/master/efficientnetv2) | EC078 |
+| 6 | EfficientNetV2-S + V2-M + V2-L originalfeatures / RF | 66.64 | [EfficientNetV2](https://github.com/google/automl/tree/master/efficientnetv2) | EC078 |
+| 7 | Soft voting: EfficientNetV2-M + EfficientNetV2-L | 66.59 | [EfficientNetV2](https://github.com/google/automl/tree/master/efficientnetv2) | EC078 |
+| 8 | Soft voting: EfficientNetV2-S + EfficientNetV2-L | 66.42 | [EfficientNetV2](https://github.com/google/automl/tree/master/efficientnetv2) | EC078 |
+| 9 | V2-S + V2-M + V2-L originalfeatures / SVM+MLP-A | 66.31 | — | EC078 |
+| 10 | EfficientNetV2-S + V2-M + V2-L reducedfeatures / MLP-A | 66.16 | [EfficientNetV2](https://github.com/google/automl/tree/master/efficientnetv2) | EC078 |
 
 </details>
 
@@ -171,14 +171,14 @@ acquisition and highlight logs are kept under `_build/` for audit.
 
 | # | Model | Accuracy | Report |
 |---|---|---|---|
-| — | PSO + TabTransformer | 0.97 | EC063 |
-| — | PSO + Transformer | 0.963 | EC063 |
-| — | PCA + TabTransformer | 0.941 | EC063 |
-| — | PCA + Transformer | 0.925 | EC063 |
-| — | PSO + RF | 0.905 | EC063 |
-| — | PCA + RF | 0.902 | EC063 |
-| — | PCA + decision tree | 0.898 | EC063 |
-| — | PSO + decision tree | 0.889 | EC063 |
+| — | PSO + TabTransformer | 0.97 | [TabTransformer](https://github.com/lucidrains/tab-transformer-pytorch) | EC063 |
+| — | PSO + Transformer | 0.963 | — | EC063 |
+| — | PCA + TabTransformer | 0.941 | [TabTransformer](https://github.com/lucidrains/tab-transformer-pytorch) | EC063 |
+| — | PCA + Transformer | 0.925 | — | EC063 |
+| — | PSO + RF | 0.905 | — | EC063 |
+| — | PCA + RF | 0.902 | — | EC063 |
+| — | PCA + decision tree | 0.898 | — | EC063 |
+| — | PSO + decision tree | 0.889 | — | EC063 |
 
 </details>
 
@@ -186,16 +186,16 @@ acquisition and highlight logs are kept under `_build/` for audit.
 
 | # | Model | mAP | Report |
 |---|---|---|---|
-| 1 | SAM dual branch + YOLOv8 | 0.874 | EE024 |
-| 2 | SOLOv2 | 0.764 | EE024 |
-| 3 | RTMDet | 0.756 | EE024 |
-| 4 | DONet | 0.75 | EE024 |
-| 5 | Cascade MaskRCNN | 0.745 | EE024 |
-| 6 | GAInS | 0.723 | EE024 |
-| 7 | Mask2Former | 0.708 | EE024 |
-| 8 | Mask Scoring RCNN | 0.672 | EE024 |
-| 9 | YOLACT | 0.643 | EE024 |
-| 10 | SAM auto | 0.002 | EE024 |
+| 1 | SAM dual branch + YOLOv8 | 0.874 | [SAM](https://github.com/facebookresearch/segment-anything) | EE024 |
+| 2 | SOLOv2 | 0.764 | [SOLOv2](https://github.com/WXinlong/SOLO) | EE024 |
+| 3 | RTMDet | 0.756 | [MMDet](https://github.com/open-mmlab/mmdetection) | EE024 |
+| 4 | DONet | 0.75 | — | EE024 |
+| 5 | Cascade MaskRCNN | 0.745 | [MMDet](https://github.com/open-mmlab/mmdetection) | EE024 |
+| 6 | GAInS | 0.723 | — | EE024 |
+| 7 | Mask2Former | 0.708 | [Mask2Former](https://github.com/facebookresearch/Mask2Former) | EE024 |
+| 8 | Mask Scoring RCNN | 0.672 | [MMDet](https://github.com/open-mmlab/mmdetection) | EE024 |
+| 9 | YOLACT | 0.643 | [YOLACT](https://github.com/dbolya/yolact) | EE024 |
+| 10 | SAM auto | 0.002 | [SAM](https://github.com/facebookresearch/segment-anything) | EE024 |
 
 </details>
 
@@ -203,16 +203,16 @@ acquisition and highlight logs are kept under `_build/` for audit.
 
 | # | Model | Accuracy % | Report |
 |---|---|---|---|
-| 1 | BEiT-B | 93.52 | EQS01 |
-| 2 | Swin-V2-L | 90.9 | EQS01 |
-| 3 | Swin-V2-T | 90.83 | EQS01 |
-| 4 | Eff-V2-S | 90.43 | EQS01 |
-| 5 | Eff-V2-L | 89.99 | EQS01 |
-| 6 | Custom CNN + BEiT-B | 89.97 | EQS01 |
-| 7 | Eff-V2-S + BEiT-B | 89.56 | EQS01 |
-| 8 | Eff-V2-S + Swin-V2-L | 88.59 | EQS01 |
-| 9 | CoAtNet-1 | 88.55 | EQS01 |
-| 10 | CoAtNet-0 | 86.79 | EQS01 |
+| 1 | BEiT-B | 93.52 | [BEiT](https://github.com/microsoft/unilm/tree/master/beit2) | EQS01 |
+| 2 | Swin-V2-L | 90.9 | [Swin-V2](https://github.com/microsoft/Swin-Transformer) | EQS01 |
+| 3 | Swin-V2-T | 90.83 | [Swin-V2](https://github.com/microsoft/Swin-Transformer) | EQS01 |
+| 4 | Eff-V2-S | 90.43 | [EfficientNetV2](https://github.com/google/automl/tree/master/efficientnetv2) | EQS01 |
+| 5 | Eff-V2-L | 89.99 | [EfficientNetV2](https://github.com/google/automl/tree/master/efficientnetv2) | EQS01 |
+| 6 | Custom CNN + BEiT-B | 89.97 | [BEiT](https://github.com/microsoft/unilm/tree/master/beit2) | EQS01 |
+| 7 | Eff-V2-S + BEiT-B | 89.56 | [EfficientNetV2](https://github.com/google/automl/tree/master/efficientnetv2) | EQS01 |
+| 8 | Eff-V2-S + Swin-V2-L | 88.59 | [EfficientNetV2](https://github.com/google/automl/tree/master/efficientnetv2) | EQS01 |
+| 9 | CoAtNet-1 | 88.55 | [paper](https://arxiv.org/abs/2106.04803) | EQS01 |
+| 10 | CoAtNet-0 | 86.79 | [paper](https://arxiv.org/abs/2106.04803) | EQS01 |
 
 </details>
 
@@ -220,16 +220,16 @@ acquisition and highlight logs are kept under `_build/` for audit.
 
 | # | Model | Accuracy % | Report |
 |---|---|---|---|
-| 1 | BEiT-B | 92.5 | EQS01 |
-| 2 | Swin-V2-L | 91.67 | EQS01 |
-| 3 | Custom CNN + BEiT-B | 91.57 | EQS01 |
-| 4 | Eff-V2-S + Swin-V2-L | 91.17 | EQS01 |
-| 5 | Eff-V2-S | 91.13 | EQS01 |
-| 5 | Swin-V2-T | 91.13 | EQS01 |
-| 7 | CoAtNet-1 | 91.07 | EQS01 |
-| 7 | Eff-V2-L | 91.07 | EQS01 |
-| 9 | CoAtNet-0 | 90.73 | EQS01 |
-| 10 | Eff-V2-S + BEiT-B | 90.67 | EQS01 |
+| 1 | BEiT-B | 92.5 | [BEiT](https://github.com/microsoft/unilm/tree/master/beit2) | EQS01 |
+| 2 | Swin-V2-L | 91.67 | [Swin-V2](https://github.com/microsoft/Swin-Transformer) | EQS01 |
+| 3 | Custom CNN + BEiT-B | 91.57 | [BEiT](https://github.com/microsoft/unilm/tree/master/beit2) | EQS01 |
+| 4 | Eff-V2-S + Swin-V2-L | 91.17 | [EfficientNetV2](https://github.com/google/automl/tree/master/efficientnetv2) | EQS01 |
+| 5 | Eff-V2-S | 91.13 | [EfficientNetV2](https://github.com/google/automl/tree/master/efficientnetv2) | EQS01 |
+| 5 | Swin-V2-T | 91.13 | [Swin-V2](https://github.com/microsoft/Swin-Transformer) | EQS01 |
+| 7 | CoAtNet-1 | 91.07 | [paper](https://arxiv.org/abs/2106.04803) | EQS01 |
+| 7 | Eff-V2-L | 91.07 | [EfficientNetV2](https://github.com/google/automl/tree/master/efficientnetv2) | EQS01 |
+| 9 | CoAtNet-0 | 90.73 | [paper](https://arxiv.org/abs/2106.04803) | EQS01 |
+| 10 | Eff-V2-S + BEiT-B | 90.67 | [EfficientNetV2](https://github.com/google/automl/tree/master/efficientnetv2) | EQS01 |
 
 </details>
 
