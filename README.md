@@ -42,7 +42,7 @@ traced back to its source rather than taken on trust.
 | | |
 |---|---|
 | **Corpus** | [247 cited works](https://yukun-wen.github.io/AIR-evidence-companion/catalog.html) · [125 core reports](https://yukun-wen.github.io/AIR-evidence-companion/catalog.html) · [122 contextual](https://yukun-wen.github.io/AIR-evidence-companion/catalog.html) |
-| **Structure** | [8 manuscript sections](https://yukun-wen.github.io/AIR-evidence-companion/sections.html) · [9 workflow groups](https://yukun-wen.github.io/AIR-evidence-companion/az.html) |
+| **Structure** | [10 manuscript sections](https://yukun-wen.github.io/AIR-evidence-companion/sections.html) · [7 workflow groups](https://yukun-wen.github.io/AIR-evidence-companion/az.html) |
 | **Analysis** | [20 conditional contrasts](https://yukun-wen.github.io/AIR-evidence-companion/contrasts.html) · [12 charts](https://yukun-wen.github.io/AIR-evidence-companion/atlas.html) |
 | **Full text** | [91 mirrored PDFs](https://yukun-wen.github.io/AIR-evidence-companion/atlas.html) · 58 with in-situ highlight marks |
 | **Format** | Static site — no build step; works offline from `index.html` |
@@ -101,7 +101,7 @@ The library is organized around four linked views of the same corpus:
 | Mirrored PDFs | 91 |
 | PDFs with highlight marks | 58 |
 | Conditional contrasts | 20 |
-| Manuscript sections | 8 |
+| Manuscript sections | 10 |
 | Machine-readable records | `data/papers.json` |
 
 </details>
