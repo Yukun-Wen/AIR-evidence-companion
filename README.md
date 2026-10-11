@@ -47,11 +47,6 @@ traced back to its source rather than taken on trust.
 | **Full text** | [91 mirrored PDFs](https://yukun-wen.github.io/AIR-evidence-companion/atlas.html) · 58 with in-situ highlight marks |
 | **Format** | Static site — no build step; works offline from `index.html` |
 
-<p align="center"><em>Landing view — corpus statistics, section links, key figures.</em></p>
-<p align="center"><a href="https://yukun-wen.github.io/AIR-evidence-companion"><img src="docs/screenshot-home.png" alt="Evidence companion — landing view" width="86%"></a></p>
-
-<p align="center"><em>Catalog — sortable, searchable record of all cited works.</em></p>
-<p align="center"><a href="https://yukun-wen.github.io/AIR-evidence-companion/catalog.html"><img src="docs/screenshot-catalog.png" alt="Catalog of cited works" width="86%"></a></p>
 
 ## 1. Design
 
